@@ -1,0 +1,607 @@
+{
+	"name" : "magiculture-loot",
+	"loot_rules" : [
+		{	
+			"type" : "SMITH", 
+			"loot" : [
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 0, "min" : 1, "max" : 2}, "weight" : 5},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 1, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 2, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 3, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 4, "min" : 1, "max" : 2}, "weight" : 2}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "STARTER", 
+			"loot" : [
+				{"data" : {"name" : "antiqueatlas:antique_atlas", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "antiqueatlas:empty_antique_atlas", "meta" : 0}, "weight" : 3},
+				{"data" : {"name" : "minecraft:compass", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:clock", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:canteen", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:fishing_rod", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:thermometer", "meta" : 0}, "weight" : 1}
+			],
+			"level" : [0, 1],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "arrow", "min" : 8, "max" : 12}, "weight" : 8},
+				{"data" : {"name" : "quark:arrow_torch", "min" : 8, "max" : 12}, "weight" : 6},
+				{"data" : {"name" : "quark:arrow_explosive", "min" : 8, "max" : 12}, "weight" : 5},
+				{"data" : {"name" : "xreliquary:glowing_water", "min" : 2, "max" : 5}, "weight" : 4},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 0, "min" : 1, "max" : 2}, "weight" : 3}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "arrow", "min" : 8, "max" : 12}, "weight" : 16},
+				{"data" : {"name" : "quark:arrow_ender", "min" : 8, "max" : 12}, "weight" : 4},
+				{"data" : {"name" : "quark:arrow_torch", "min" : 8, "max" : 12}, "weight" : 12},
+				{"data" : {"name" : "quark:arrow_explosive", "min" : 8, "max" : 12}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:glowing_water", "min" : 2, "max" : 5}, "weight" : 6},
+				{"data" : {"name" : "xreliquary:holy_hand_grenade", "min" : 2, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 0, "min" : 1, "max" : 2}, "weight" : 3},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 1, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 2, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 3, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 4, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 5, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 6, "min" : 1, "max" : 2}, "weight" : 1}
+			],
+			"level" : [1, 2],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "arrow", "min" : 8, "max" : 12}, "weight" : 12},
+				{"data" : {"name" : "quark:arrow_ender", "min" : 8, "max" : 12}, "weight" : 8},
+				{"data" : {"name" : "quark:arrow_explosive", "min" : 8, "max" : 12}, "weight" : 8},
+				{"data" : {"name" : "xreliquary:glowing_water", "min" : 2, "max" : 5}, "weight" : 8},
+				{"data" : {"name" : "xreliquary:holy_hand_grenade", "min" : 2, "max" : 4}, "weight" : 6},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 7, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 8, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 9, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 10, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 11, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 12, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 13, "min" : 1, "max" : 2}, "weight" : 1}
+			],
+			"level" : [3, 4],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "web"}, "weight" : 8},
+				{"data" : {"name" : "spartanshields:shield_basic_copper"}, "weight" : 6},
+				{"data" : {"name" : "spartanshields:shield_basic_stone"}, "weight" : 12},
+				{"data" : {"name" : "spartanshields:shield_basic_copper", "ench" : 12}, "weight" : 10},
+				{"data" : {"name" : "spartanshields:shield_basic_iron"}, "weight" : 6},
+				{"data" : {"name" : "spartanshields:shield_basic_iron", "ench" : 15}, "weight" : 4}
+			],
+			"level" : [0, 1],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "web"}, "weight" : 16},
+				{"data" : {"name" : "spartanshields:shield_basic_iron"}, "weight" : 10},
+				{"data" : {"name" : "spartanshields:shield_basic_iron", "ench" : 20}, "weight" : 6},
+				{"data" : {"name" : "spartanshields:shield_basic_gold"}, "weight" : 3},
+				{"data" : {"name" : "spartanshields:shield_basic_gold", "ench" : 25}, "weight" : 5},
+				{"data" : {"name" : "spartanshields:shield_basic_steel"}, "weight" : 2},
+				{"data" : {"name" : "spartanshields:shield_basic_steel", "ench" : 20}, "weight" : 2},
+				{"data" : {"name" : "spartanshields:shield_basic_obsidian"}, "weight" : 2}
+			],
+			"level" : [2, 3],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "spartanshields:shield_basic_diamond"}, "weight" : 6},
+				{"data" : {"name" : "spartanshields:shield_basic_diamond", "ench" : 25}, "weight" : 10},
+				{"data" : {"name" : "spartanshields:shield_basic_gold", "ench" : 30}, "weight" : 4},
+				{"data" : {"name" : "spartanshields:shield_basic_obsidian"}, "weight" : 6},
+				{"data" : {"name" : "spartanshields:shield_basic_obsidian", "ench" : 25}, "weight" : 10}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:destruction_catalyst", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:emperor_chalice", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:fortune_coin", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 1}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 2}},
+				{"data" : {"name" : "xreliquary:mercy_cross", "meta" : 0, "ench" : 15}},
+				{"data" : {"name" : "xreliquary:ice_magus_rod", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:magicbane", "meta" : 0, "ench" : 20}},
+				{"data" : {"name" : "xreliquary:angelheart_vial", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:grapplinghook", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:hookshot", "meta" : 0}},
+				{"data" : {"name" : "quark:rune", "meta" : 16}},
+				{"data" : {"name" : "extrautils2:boomerang", "meta" : 0, "ench" : 18}},
+				{"data" : {"name" : "quark:slime_bucket"}},
+				{"data" : {"name" : "botania:enderdagger", "ench" : 15}},
+				{"data" : {"name" : "botania:grasshorn", "meta" : 0}},
+				{"data" : {"name" : "botania:grasshorn", "meta" : 1}},
+				{"data" : {"name" : "botania:grasshorn", "meta" : 2}},
+				{"data" : {"name" : "botania:swapring"}},
+				{"data" : {"name" : "botania:waterring"}},
+				{"data" : {"name" : "botania:dodgering"}},
+				{"data" : {"name" : "botania:magnetring"}},
+				{"data" : {"name" : "botania:cloudpendant"}},
+				{"data" : {"name" : "botania:knockbackbelt"}},
+				{"data" : {"name" : "botania:baublebox"}},
+				{"data" : {"name" : "botania:livingwoodbow", "ench" : 15}},
+				{"data" : {"name" : "baubles:ring"}},
+				{"data" : {"name" : "extraalchemy:potion_bag"}},
+				{"data" : {"name" : "magicalmap:map"}},
+				{"data" : {"name" : "naturescompass:naturescompass", "meta" : 0}}
+			],
+			"level" : [1, 2],
+			"each" : false,
+			"quantity" : 3
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:destruction_catalyst", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:emperor_chalice", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:fortune_coin", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 1}},
+				{"data" : {"name" : "xreliquary:gun_part", "meta" : 2}},
+				{"data" : {"name" : "xreliquary:mercy_cross", "meta" : 0, "ench" : 25}},
+				{"data" : {"name" : "xreliquary:ice_magus_rod", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:magicbane", "meta" : 0, "ench" : 30}},
+				{"data" : {"name" : "xreliquary:sojourner_staff", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:shears_of_winter", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:rod_of_lyssa", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:void_tear", "meta" : 0}},
+				{"data" : {"name" : "waystones:warp_stone", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:launcheritem", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:hookshot", "meta" : 0}},
+				{"data" : {"name" : "extrautils2:boomerang", "meta" : 0, "ench" : 25}},
+				{"data" : {"name" : "extrautils2:goldenlasso", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:angelheart_vial", "meta" : 0}},
+				{"data" : {"name" : "botania:thornchakram", "min" : 2, "max" : 3, "meta" : 0}},
+				{"data" : {"name" : "botania:enderdagger", "ench" : 25}},
+				{"data" : {"name" : "botania:swapring"}},
+				{"data" : {"name" : "botania:waterring"}},
+				{"data" : {"name" : "botania:dodgering"}},
+				{"data" : {"name" : "botania:magnetring"}},
+				{"data" : {"name" : "botania:cloudpendant"}},
+				{"data" : {"name" : "botania:knockbackbelt"}},
+				{"data" : {"name" : "botania:divacharm"}},
+				{"data" : {"name" : "botania:lavapendant"}},
+				{"data" : {"name" : "botania:reachring"}},
+				{"data" : {"name" : "botania:itemfinder"}},
+				{"data" : {"name" : "botania:travelbelt"}},
+				{"data" : {"name" : "botania:cacophonium"}},
+				{"data" : {"name" : "botania:laputashard", "meta" : 0}},
+				{"data" : {"name" : "botania:crystalbow", "ench" : 25}},
+				{"data" : {"name" : "magicalmap:map"}},
+				{"data" : {"name" : "potionfingers:ring", "meta" : 0}},
+				{"data" : {"name" : "quark:rune", "meta" : 16}}
+			],
+			"level" : [3, 4],
+			"each" : false,
+			"quantity" : 3
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:angelic_feather", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:ender_staff", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:glacial_staff", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:hero_medallion", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:lantern_of_paranoia", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:infernal_claws", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:alkahestry_tome", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:harvest_rod", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:midas_touchstone", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:serpent_staff", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:rending_gale", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:pyromancer_staff", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:twilight_cloak", "meta" : 0}},
+				{"data" : {"name" : "xreliquary:witherless_rose", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:repeller", "meta" : 0}},
+				{"data" : {"name" : "grapplemod:enderhook", "meta" : 0}},
+				{"data" : {"name" : "waystones:warp_stone", "meta" : 0}},
+				{"data" : {"name" : "extrautils2:bagofholding", "meta" : 0}},
+				{"data" : {"name" : "embers:tyrfing", "ench" : 30}},
+				{"data" : {"name" : "endercompass:ender_compass", "meta" : 0}},
+				{"data" : {"name" : "extrautils2:goldenlasso", "meta" : 1}},
+				{"data" : {"name" : "extrautils2:itemdestructionwand", "meta" : 0}},
+				{"data" : {"name" : "botania:thornchakram", "min" : 3, "max" : 4, "meta" : 1}},
+				{"data" : {"name" : "botania:blacklotus", "min" : 1, "max" : 2, "meta" : 1}},
+				{"data" : {"name" : "botania:thirdeye"}},
+				{"data" : {"name" : "botania:enderhand"}},
+				{"data" : {"name" : "botania:laputashard", "meta" : 4}},
+				{"data" : {"name" : "botania:starsword", "ench" : 30}},
+				{"data" : {"name" : "botania:thundersword", "ench" : 30}},
+				{"data" : {"name" : "botania:pinkinator"}},
+				{"data" : {"name" : "botania:supercloudpendant"}},
+				{"data" : {"name" : "extrautils2:itembuilderswand", "meta" : 0}}
+			],
+			"level" : 4,
+			"each" : false,
+			"quantity" : 2
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [	
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 3
+		},
+		{
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 9}},
+				{"data" : {"name" : "cooked_rabbit", "min" : 1, "max" : 3}}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 9}},
+				{"data" : {"name" : "cooked_mutton", "min" : 1, "max" : 3}},
+				{"data" : {"name" : "cooked_rabbit", "min" : 1, "max" : 3}}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 7}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 5}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 4}},
+				{"data" : {"name" : "cooked_mutton", "min" : 2, "max" : 5}},
+				{"data" : {"name" : "cooked_rabbit", "min" : 2, "max" : 5}}
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 6}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 7}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 4}},
+				{"data" : {"name" : "golden_carrot", "min" : 2, "max" : 5}, "weight" : 10},
+				{"data" : {"name" : "golden_apple", "min" : 1, "max" : 1}, "weight" : 10}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "MUSIC", 
+			"loot" : [
+				{"data" : {"name" : "record_13"}},
+				{"data" : {"name" : "record_cat"}},
+				{"data" : {"name" : "record_blocks"}},
+				{"data" : {"name" : "record_chirp"}},
+				{"data" : {"name" : "record_far"}},
+				{"data" : {"name" : "record_mall"}},
+				{"data" : {"name" : "record_mellohi"}},
+				{"data" : {"name" : "record_stal"}},
+				{"data" : {"name" : "record_strad"}},
+				{"data" : {"name" : "record_ward"}},
+				{"data" : {"name" : "record_wait"}}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "MUSIC", 
+			"loot" : [
+				{"data" : {"name" : "record_11"}}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "toughasnails:lifeblood_crystal", "meta" : 0 }}
+			],
+			"level" : [1, 2, 3],
+			"each" : false,
+			"quantity" : 1
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "toughasnails:lifeblood_crystal", "meta" : 0 }}
+			],
+			"level" : 4,
+			"each" : false,
+			"quantity" : 2
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "botania:overgrowthseed", "min" : 1, "max" : 1}, "weight" : 3},
+				{"data" : {"name" : "botania:keepivy", "min" : 1, "max" : 2}, "weight" : 4},
+				{"data" : {"name" : "botania:blacklotus", "min" : 1, "max" : 1, "meta" : 0}, "weight" : 6},
+				{"data" : {"name" : "corpsecomplex:scroll", "min" : 1, "max" : 1}, "weight" : 3},
+				{"data" : {"name" : "emerald"}, "weight" : 16}
+			],
+			"level" : [2, 3, 4],
+			"each" : false,
+			"quantity" : 5
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 0}, "weight" : 20},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 2}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 3}, "weight" : 4},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 5}, "weight" : 6},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 6}, "weight" : 6},
+				{"data" : {"name" : "botania:manaresource", "meta" : 8}, "weight" : 2},
+				{"data" : {"name" : "waystones:return_scroll", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:freeze_rod", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "web", "meta" : 0}, "weight" : 16}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 0}, "weight" : 20},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 1}, "weight" : 2},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 2}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 3}, "weight" : 4},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 5}, "weight" : 6},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 6}, "weight" : 6},
+				{"data" : {"name" : "botania:manaresource", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:freeze_rod", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "waystones:return_scroll", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "web", "meta" : 0}, "weight" : 16}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 0}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 2}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 3}, "weight" : 14},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 4}, "weight" : 6},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 5}, "weight" : 10},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 11}, "weight" : 4},
+				{"data" : {"name" : "botania:manaresource", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "botania:manaresource", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:freeze_rod", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "waystones:warp_scroll", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "web", "meta" : 0}, "weight" : 16}
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	 
+			"loot" : [
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 0}, "weight" : 3},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 1}, "weight" : 7},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 2}, "weight" : 5},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 7}, "weight" : 7},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 5}, "weight" : 4},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 11}, "weight" : 3},
+				{"data" : {"name" : "xreliquary:mob_ingredient", "meta" : 13}, "weight" : 3},
+				{"data" : {"name" : "botania:manaresource", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "waystones:warp_scroll", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "minecraft:blaze_rod", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "minecraft:skull", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "minecraft:web", "meta" : 0}, "weight" : 10}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "embers:ingot_copper", "meta" : 0, "min" : 2, "max" : 5}, "weight" : 8},
+				{"data" : {"name" : "embers:ingot_bronze", "meta" : 0, "min" : 2, "max" : 5}, "weight" : 6},
+				{"data" : {"name" : "embers:ingot_nickel", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "embers:ingot_lead", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "embers:ingot_silver", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "embers:ingot_electrum", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "embers:ingot_dawnstone", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 4},
+				{"data" : {"name" : "botania:manaresource", "meta" : 0, "min" : 2, "max" : 3}, "weight" : 8},
+				{"data" : {"name" : "botania:manaresource", "meta" : 7, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "botania:manaresource", "meta" : 2, "min" : 1, "max" : 2}, "weight" : 6},
+				{"data" : {"name" : "embers:seed", "meta" : 0, "min" : 1, "max" : 1}, "weight" : 2},
+				{"data" : {"name" : "embers:seed", "meta" : 1, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "embers:seed", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 3},
+				{"data" : {"name" : "embers:seed", "meta" : 3, "min" : 1, "max" : 1}, "weight" : 2},
+				{"data" : {"name" : "embers:seed", "meta" : 4, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "embers:shard_ember", "meta" : 0, "min" : 3, "max" : 6}, "weight" : 16},
+				{"data" : {"name" : "embers:crystal_ember", "meta" : 0, "min" : 2, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "embers:ancient_motive_core", "meta" : 0, "min" : 1, "max" : 1}, "weight" : 2}
+			],
+			"level" : [0, 1, 2, 3],
+			"each" : true,
+			"quantity" : 4
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "embers:ingot_silver", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 6},
+				{"data" : {"name" : "embers:ingot_electrum", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 6},
+				{"data" : {"name" : "embers:ingot_dawnstone", "meta" : 0, "min" : 2, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "embers:seed", "meta" : 0, "min" : 1, "max" : 1}, "weight" : 3},
+				{"data" : {"name" : "embers:seed", "meta" : 1, "min" : 1, "max" : 1}, "weight" : 2},
+				{"data" : {"name" : "embers:seed", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 4},
+				{"data" : {"name" : "embers:seed", "meta" : 3, "min" : 1, "max" : 1}, "weight" : 3},
+				{"data" : {"name" : "embers:seed", "meta" : 4, "min" : 1, "max" : 1}, "weight" : 2},
+				{"data" : {"name" : "botania:manaresource", "meta" : 9, "min" : 1, "max" : 2}, "weight" : 4},
+				{"data" : {"name" : "quark:biotite", "min" : 4, "max" : 8}, "weight" : 8},
+				{"data" : {"name" : "embers:shard_ember", "meta" : 0, "min" : 3, "max" : 6}, "weight" : 6},
+				{"data" : {"name" : "embers:crystal_ember", "meta" : 0, "min" : 2, "max" : 3}, "weight" : 8},
+				{"data" : {"name" : "embers:ancient_motive_core", "meta" : 0, "min" : 1, "max" : 1}, "weight" : 2}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 3
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "quark:biotite_block", "min" : 8, "max" : 16}, "weight" : 1},
+				{"data" : {"name" : "quark:duskbound_block", "min" : 8, "max" : 16}, "weight" : 1},
+				{"data" : {"name" : "quark:basalt", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:limestone", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:marble", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:sandstone_new", "meta" : 3, "min" : 8, "max" : 16}, "weight" : 2},
+				{"data" : {"name" : "quark:sandstone_new", "meta" : 1, "min" : 8, "max" : 16}, "weight" : 2},
+				{"data" : {"name" : "quark:sandy_bricks", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:iron_plate", "min" : 8, "max" : 16}, "weight" : 2},
+				{"data" : {"name" : "quark:charred_nether_bricks", "min" : 8, "max" : 16}, "weight" : 1},
+				{"data" : {"name" : "quark:midori_block", "min" : 8, "max" : 16}, "weight" : 1},
+				{"data" : {"name" : "brick_block", "min" : 8, "max" : 16}, "weight" : 7},
+				{"data" : {"name" : "mossy_cobblestone", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "stonebrick", "min" : 8, "max" : 16}, "weight" : 7},
+				{"data" : {"name" : "glass", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "ladder", "min" : 8, "max" : 16}, "weight" : 10},
+				{"data" : {"name" : "purpur_block", "min" : 8, "max" : 16}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "quark:biotite_block", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:duskbound_block", "min" : 8, "max" : 16}, "weight" : 2},
+				{"data" : {"name" : "quark:basalt", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "obsidian", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "soul_sand", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:sandstone_new", "meta" : 5, "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "nether_brick", "min" : 8, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "quark:polished_netherrack", "min" : 8, "max" : 16}, "weight" : 4},
+				{"data" : {"name" : "quark:iron_plate", "min" : 8, "max" : 16}, "weight" : 2},
+				{"data" : {"name" : "end_stone", "min" : 8, "max" : 16}, "weight" : 1},
+				{"data" : {"name" : "quark:charred_nether_bricks", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "quark:biome_cobblestone", "meta" : 0, "min" : 8, "max" : 16}, "weight" : 4}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 2
+		}
+	]
+}

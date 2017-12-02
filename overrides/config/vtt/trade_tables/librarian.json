@@ -1,0 +1,10 @@
+{ 
+	Profession:"minecraft:librarian", 
+	Career:"librarian",
+
+	Offers:{
+		Recipes:[
+		
+			
+		]
+	}

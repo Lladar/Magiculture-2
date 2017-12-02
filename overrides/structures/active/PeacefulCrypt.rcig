@@ -1,0 +1,392 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "PeacefulCrypt",
+  "items": [
+    {
+      "weight": 4.83,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.97,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.58,
+      "min": 1,
+      "max": 11,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.66,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.09,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 33
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.7,
+      "min": 1,
+      "max": 35,
+      "item": {
+        "id": "minecraft:paper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.86,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.78,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:stone_shovel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.45,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.27,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:artifact_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mercy_cross",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:angelic_feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "xreliquary:glowing_water",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 2,
+      "max": 4,
+      "item": {
+        "id": "xreliquary:holy_hand_grenade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:skull",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:totem_of_undying",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 8,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 15,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 7,
+      "item": {
+        "id": "minecraft:gold_nugget",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 19
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 10
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 71
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 34
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,227 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "PyramidGraveGoodsCheap",
+  "items": [
+    {
+      "weight": 3.48,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:artifact_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.71,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "minecraft:leather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.68,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.763644814491272,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 7,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 12,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "roots:totem_fragment",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:gold_nugget",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

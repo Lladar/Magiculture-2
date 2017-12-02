@@ -1,0 +1,356 @@
++----------------------------+-------------------------------------------+-----------------------------+--------+
+| Mod name                   | Registry name                             | Entity class name           |     ID |
++----------------------------+-------------------------------------------+-----------------------------+--------+
+| Animania                   | animania:buck_alpine                      | EntityBuckAlpine            |     60 |
+| Animania                   | animania:buck_angora                      | EntityBuckAngora            |     63 |
+| Animania                   | animania:buck_chinchilla                  | EntityRabbitBuckChinchilla  |    101 |
+| Animania                   | animania:buck_cottontail                  | EntityRabbitBuckCottontail  |     98 |
+| Animania                   | animania:buck_dutch                       | EntityRabbitBuckDutch       |    104 |
+| Animania                   | animania:buck_fainting                    | EntityBuckFainting          |     66 |
+| Animania                   | animania:buck_havana                      | EntityRabbitBuckHavana      |    107 |
+| Animania                   | animania:buck_jack                        | EntityRabbitBuckJack        |    110 |
+| Animania                   | animania:buck_kiko                        | EntityBuckKiko              |     69 |
+| Animania                   | animania:buck_kinder                      | EntityBuckKinder            |     72 |
+| Animania                   | animania:buck_lop                         | EntityRabbitBuckLop         |    119 |
+| Animania                   | animania:buck_new_zealand                 | EntityRabbitBuckNewZealand  |    113 |
+| Animania                   | animania:buck_nigerian_dwarf              | EntityBuckNigerianDwarf     |     75 |
+| Animania                   | animania:buck_pygmy                       | EntityBuckPygmy             |     78 |
+| Animania                   | animania:buck_rex                         | EntityRabbitBuckRex         |    116 |
+| Animania                   | animania:bull_angus                       | EntityBullAngus             |     43 |
+| Animania                   | animania:bull_friesian                    | EntityBullFriesian          |     46 |
+| Animania                   | animania:bull_hereford                    | EntityBullHereford          |     49 |
+| Animania                   | animania:bull_holstein                    | EntityBullHolstein          |     52 |
+| Animania                   | animania:bull_longhorn                    | EntityBullLonghorn          |     55 |
+| Animania                   | animania:calf_angus                       | EntityCalfAngus             |     41 |
+| Animania                   | animania:calf_friesian                    | EntityCalfFriesian          |     44 |
+| Animania                   | animania:calf_hereford                    | EntityCalfHereford          |     47 |
+| Animania                   | animania:calf_holstein                    | EntityCalfHolstein          |     50 |
+| Animania                   | animania:calf_longhorn                    | EntityCalfLonghorn          |     53 |
+| Animania                   | animania:chick_leghorn                    | EntityChickLeghorn          |     26 |
+| Animania                   | animania:chick_orpington                  | EntityChickOrpington        |     29 |
+| Animania                   | animania:chick_plymouth_rock              | EntityChickPlymouthRock     |     32 |
+| Animania                   | animania:chick_rhode_island_red           | EntityChickRhodeIslandRed   |     35 |
+| Animania                   | animania:chick_wyandotte                  | EntityChickWyandotte        |     38 |
+| Animania                   | animania:cow_angus                        | EntityCowAngus              |     42 |
+| Animania                   | animania:cow_friesian                     | EntityCowFriesian           |     45 |
+| Animania                   | animania:cow_hereford                     | EntityCowHereford           |     48 |
+| Animania                   | animania:cow_holstein                     | EntityCowHolstein           |     51 |
+| Animania                   | animania:cow_longhorn                     | EntityCowLonghorn           |     54 |
+| Animania                   | animania:dartfrog                         | EntityDartFrogs             |     58 |
+| Animania                   | animania:doe_alpine                       | EntityDoeAlpine             |     61 |
+| Animania                   | animania:doe_angora                       | EntityDoeAngora             |     64 |
+| Animania                   | animania:doe_chinchilla                   | EntityRabbitDoeChinchilla   |    102 |
+| Animania                   | animania:doe_cottontail                   | EntityRabbitDoeCottontail   |     99 |
+| Animania                   | animania:doe_dutch                        | EntityRabbitDoeDutch        |    105 |
+| Animania                   | animania:doe_fainting                     | EntityDoeFainting           |     67 |
+| Animania                   | animania:doe_havana                       | EntityRabbitDoeHavana       |    108 |
+| Animania                   | animania:doe_jack                         | EntityRabbitDoeJack         |    111 |
+| Animania                   | animania:doe_kiko                         | EntityDoeKiko               |     70 |
+| Animania                   | animania:doe_kinder                       | EntityDoeKinder             |     73 |
+| Animania                   | animania:doe_lop                          | EntityRabbitDoeLop          |    120 |
+| Animania                   | animania:doe_new_zealand                  | EntityRabbitDoeNewZealand   |    114 |
+| Animania                   | animania:doe_nigerian_dwarf               | EntityDoeNigerianDwarf      |     76 |
+| Animania                   | animania:doe_pygmy                        | EntityDoePygmy              |     79 |
+| Animania                   | animania:doe_rex                          | EntityRabbitDoeRex          |    117 |
+| Animania                   | animania:ewe_dorper                       | EntityEweDorper             |     87 |
+| Animania                   | animania:ewe_dorset                       | EntityEweDorset             |     90 |
+| Animania                   | animania:ewe_friesian                     | EntityEweFriesian           |     81 |
+| Animania                   | animania:ewe_jacob                        | EntityEweJacob              |     96 |
+| Animania                   | animania:ewe_merino                       | EntityEweMerino             |     93 |
+| Animania                   | animania:ewe_suffolk                      | EntityEweSuffolk            |     84 |
+| Animania                   | animania:ferret_grey                      | EntityFerretGrey            |      4 |
+| Animania                   | animania:ferret_white                     | EntityFerretWhite           |      5 |
+| Animania                   | animania:foal_draft                       | EntityFoalDraftHorse        |      2 |
+| Animania                   | animania:frog                             | EntityFrogs                 |     57 |
+| Animania                   | animania:hamster                          | EntityHamster               |      3 |
+| Animania                   | animania:hedgehog                         | EntityHedgehog              |      6 |
+| Animania                   | animania:hedgehog_albino                  | EntityHedgehogAlbino        |      7 |
+| Animania                   | animania:hen_leghorn                      | EntityHenLeghorn            |     27 |
+| Animania                   | animania:hen_orpington                    | EntityHenOrpington          |     30 |
+| Animania                   | animania:hen_plymouth_rock                | EntityHenPlymouthRock       |     33 |
+| Animania                   | animania:hen_rhode_island_red             | EntityHenRhodeIslandRed     |     36 |
+| Animania                   | animania:hen_wyandotte                    | EntityHenWyandotte          |     39 |
+| Animania                   | animania:hog_duroc                        | EntityHogDuroc              |     25 |
+| Animania                   | animania:hog_hampshire                    | EntityHogHampshire          |     22 |
+| Animania                   | animania:hog_large_black                  | EntityHogLargeBlack         |     16 |
+| Animania                   | animania:hog_large_white                  | EntityHogLargeWhite         |     19 |
+| Animania                   | animania:hog_old_spot                     | EntityHogOldSpot            |     13 |
+| Animania                   | animania:hog_yorkshire                    | EntityHogYorkshire          |     10 |
+| Animania                   | animania:kid_alpine                       | EntityKidAlpine             |     59 |
+| Animania                   | animania:kid_angora                       | EntityKidAngora             |     62 |
+| Animania                   | animania:kid_fainting                     | EntityKidFainting           |     65 |
+| Animania                   | animania:kid_kiko                         | EntityKidKiko               |     68 |
+| Animania                   | animania:kid_kinder                       | EntityKidKinder             |     71 |
+| Animania                   | animania:kid_nigerian_dwarf               | EntityKidNigerianDwarf      |     74 |
+| Animania                   | animania:kid_pygmy                        | EntityKidPygmy              |     77 |
+| Animania                   | animania:kit_chinchilla                   | EntityRabbitKitChinchilla   |    103 |
+| Animania                   | animania:kit_cottontail                   | EntityRabbitKitCottontail   |    100 |
+| Animania                   | animania:kit_dutch                        | EntityRabbitKitDutch        |    106 |
+| Animania                   | animania:kit_havana                       | EntityRabbitKitHavana       |    109 |
+| Animania                   | animania:kit_jack                         | EntityRabbitKitJack         |    112 |
+| Animania                   | animania:kit_lop                          | EntityRabbitKitLop          |    121 |
+| Animania                   | animania:kit_new_zealand                  | EntityRabbitKitNewZealand   |    115 |
+| Animania                   | animania:kit_rex                          | EntityRabbitKitRex          |    118 |
+| Animania                   | animania:lamb_dorper                      | EntityLambDorper            |     86 |
+| Animania                   | animania:lamb_dorset                      | EntityLambDorset            |     89 |
+| Animania                   | animania:lamb_friesian                    | EntityLambFriesian          |     80 |
+| Animania                   | animania:lamb_jacob                       | EntityLambJacob             |     95 |
+| Animania                   | animania:lamb_merino                      | EntityLambMerino            |     92 |
+| Animania                   | animania:lamb_suffolk                     | EntityLambSuffolk           |     83 |
+| Animania                   | animania:mare_draft                       | EntityMareDraftHorse        |      0 |
+| Animania                   | animania:peachick_blue                    | EntityPeachickBlue          |    137 |
+| Animania                   | animania:peachick_charcoal                | EntityPeachickCharcoal      |    122 |
+| Animania                   | animania:peachick_opal                    | EntityPeachickOpal          |    125 |
+| Animania                   | animania:peachick_peach                   | EntityPeachickPeach         |    128 |
+| Animania                   | animania:peachick_purple                  | EntityPeachickPurple        |    131 |
+| Animania                   | animania:peachick_taupe                   | EntityPeachickTaupe         |    134 |
+| Animania                   | animania:peachick_white                   | EntityPeachickWhite         |    140 |
+| Animania                   | animania:peacock_blue                     | EntityPeacockBlue           |    139 |
+| Animania                   | animania:peacock_charcoal                 | EntityPeacockCharcoal       |    124 |
+| Animania                   | animania:peacock_opal                     | EntityPeacockOpal           |    127 |
+| Animania                   | animania:peacock_peach                    | EntityPeacockPeach          |    130 |
+| Animania                   | animania:peacock_purple                   | EntityPeacockPurple         |    133 |
+| Animania                   | animania:peacock_taupe                    | EntityPeacockTaupe          |    136 |
+| Animania                   | animania:peacock_white                    | EntityPeacockWhite          |    142 |
+| Animania                   | animania:peahen_blue                      | EntityPeafowlBlue           |    138 |
+| Animania                   | animania:peahen_charcoal                  | EntityPeafowlCharcoal       |    123 |
+| Animania                   | animania:peahen_opal                      | EntityPeafowlOpal           |    126 |
+| Animania                   | animania:peahen_peach                     | EntityPeafowlPeach          |    129 |
+| Animania                   | animania:peahen_purple                    | EntityPeafowlPurple         |    132 |
+| Animania                   | animania:peahen_taupe                     | EntityPeafowlTaupe          |    135 |
+| Animania                   | animania:peahen_white                     | EntityPeafowlWhite          |    141 |
+| Animania                   | animania:piglet_duroc                     | EntityPigletDuroc           |     23 |
+| Animania                   | animania:piglet_hampshire                 | EntityPigletHampshire       |     20 |
+| Animania                   | animania:piglet_large_black               | EntityPigletLargeBlack      |     14 |
+| Animania                   | animania:piglet_large_white               | EntityPigletLargeWhite      |     17 |
+| Animania                   | animania:piglet_old_spot                  | EntityPigletOldSpot         |     11 |
+| Animania                   | animania:piglet_yorkshire                 | EntityPigletYorkshire       |      8 |
+| Animania                   | animania:ram_dorper                       | EntityRamDorper             |     88 |
+| Animania                   | animania:ram_dorset                       | EntityRamDorset             |     91 |
+| Animania                   | animania:ram_friesian                     | EntityRamFriesian           |     82 |
+| Animania                   | animania:ram_jacob                        | EntityRamJacob              |     97 |
+| Animania                   | animania:ram_merino                       | EntityRamMerino             |     94 |
+| Animania                   | animania:ram_suffolk                      | EntityRamSuffolk            |     85 |
+| Animania                   | animania:rooster_leghorn                  | EntityRoosterLeghorn        |     28 |
+| Animania                   | animania:rooster_orpington                | EntityRoosterOrpington      |     31 |
+| Animania                   | animania:rooster_plymouth_rock            | EntityRoosterPlymouthRock   |     34 |
+| Animania                   | animania:rooster_rhode_island_red         | EntityRoosterRhodeIslandRed |     37 |
+| Animania                   | animania:rooster_wyandotte                | EntityRoosterWyandotte      |     40 |
+| Animania                   | animania:sow_duroc                        | EntitySowDuroc              |     24 |
+| Animania                   | animania:sow_hampshire                    | EntitySowHampshire          |     21 |
+| Animania                   | animania:sow_large_black                  | EntitySowLargeBlack         |     15 |
+| Animania                   | animania:sow_large_white                  | EntitySowLargeWhite         |     18 |
+| Animania                   | animania:sow_old_spot                     | EntitySowOldSpot            |     12 |
+| Animania                   | animania:sow_yorkshire                    | EntitySowYorkshire          |      9 |
+| Animania                   | animania:stallion_draft                   | EntityStallionDraftHorse    |      1 |
+| Animania                   | animania:toad                             | EntityToad                  |     56 |
+| Astral Sorcery             | astralsorcery:entitycrystal               | EntityCrystal               |      2 |
+| Astral Sorcery             | astralsorcery:entitycrystaltool           | EntityCrystalTool           |      7 |
+| Astral Sorcery             | astralsorcery:entityflare                 | EntityFlare                 |      3 |
+| Astral Sorcery             | astralsorcery:entitygrapplinghook         | EntityGrapplingHook         |      8 |
+| Astral Sorcery             | astralsorcery:entityhighlighted           | EntityItemHighlighted       |      0 |
+| Astral Sorcery             | astralsorcery:entityilluminationspark     | EntityIlluminationSpark     |      5 |
+| Astral Sorcery             | astralsorcery:entityliquidspark           | EntityLiquidSpark           |     10 |
+| Astral Sorcery             | astralsorcery:entitynocturnalspark        | EntityNocturnalSpark        |      6 |
+| Astral Sorcery             | astralsorcery:entityspectraltool          | EntitySpectralTool          |      9 |
+| Astral Sorcery             | astralsorcery:entitystarburst             | EntityStarburst             |      4 |
+| Astral Sorcery             | astralsorcery:entitystardust              | EntityItemStardust          |      1 |
+| Better Questing            | betterquesting:placeholder                | EntityPlaceholder           |      0 |
+| Botania                    | botania:babylon_weapon                    | EntityBabylonWeapon         |     17 |
+| Botania                    | botania:corporea_spark                    | EntityCorporeaSpark         |     11 |
+| Botania                    | botania:doppleganger                      | EntityDoppleganger          |      5 |
+| Botania                    | botania:ender_air_bottle                  | EntityEnderAirBottle        |     12 |
+| Botania                    | botania:falling_star                      | EntityFallingStar           |     18 |
+| Botania                    | botania:flame_ring                        | EntityFlameRing             |      3 |
+| Botania                    | botania:magic_landmine                    | EntityMagicLandmine         |      6 |
+| Botania                    | botania:magic_missile                     | EntityMagicMissile          |      9 |
+| Botania                    | botania:mana_burst                        | EntityManaBurst             |      0 |
+| Botania                    | botania:mana_storm                        | EntityManaStorm             |     16 |
+| Botania                    | botania:pink_wither                       | EntityPinkWither            |     14 |
+| Botania                    | botania:pixie                             | EntityPixie                 |      2 |
+| Botania                    | botania:player_mover                      | EntityPlayerMover           |     15 |
+| Botania                    | botania:pool_minecart                     | EntityPoolMinecart          |     13 |
+| Botania                    | botania:signal_flare                      | EntitySignalFlare           |      1 |
+| Botania                    | botania:spark                             | EntitySpark                 |      7 |
+| Botania                    | botania:thorn_chakram                     | EntityThornChakram          |     10 |
+| Botania                    | botania:thrown_item                       | EntityThrownItem            |      8 |
+| Botania                    | botania:vine_ball                         | EntityVineBall              |      4 |
+| Bottled Milk               | bottledmilk:lingeringmilk                 | EntityLingeringMilk         |      2 |
+| Bottled Milk               | bottledmilk:milkarrow                     | EntityMilkArrow             |      3 |
+| Bottled Milk               | bottledmilk:splashmilk                    | EntitySplashMilk            |      1 |
+| Combustive Fishing         | combustfish:golden_hook                   | EntityGoldenHook            |      2 |
+| Combustive Fishing         | combustfish:thrown_combustive_cod         | EntityThrownCombustiveCod   |      1 |
+| Doggy Talents              | doggytalents:attackbeam                   | EntityDoggyBeamWrapper      |      1 |
+| Doggy Talents              | doggytalents:dog                          | EntityDogWrapper            |      0 |
+| Dynamic Sword Skills       | dynamicswordskills:leapingblow            | EntityLeapingBlow           |      0 |
+| Dynamic Sword Skills       | dynamicswordskills:swordbeam              | EntitySwordBeam             |      1 |
+| Embers                     | embers:ancient_golem                      | EntityAncientGolem          |      2 |
+| Embers                     | embers:ember_light                        | EntityEmberLight            |      3 |
+| Embers                     | embers:ember_packet                       | EntityEmberPacket           |      0 |
+| Embers                     | embers:ember_projectile                   | EntityEmberProjectile       |      1 |
+| Extra Utilities 2          | extrautils2:boomerang                     | EntityBoomerang             |      0 |
+| Extra Utilities 2          | extrautils2:chunkdata                     | EntityChunkData             |      1 |
+| Farming for Blockheads     | farmingforblockheads:merchant             | EntityMerchant              |      0 |
+| Grappling hook mod         | grapplemod:grapplemod                     | grappleArrow                |      0 |
+| Gravestone Mod             | gravestone:player_ghost                   | EntityGhostPlayer           |    378 |
+| Grue                       | grue:entitygrue                           | EntityGrue                  |      1 |
+| Immersive Engineering      | immersiveengineering:chemthrowershot      | EntityChemthrowerShot       |      4 |
+| Immersive Engineering      | immersiveengineering:explosive            | EntityIEExplosive           |      7 |
+| Immersive Engineering      | immersiveengineering:fluorescenttube      | EntityFluorescentTube       |      8 |
+| Immersive Engineering      | immersiveengineering:railgunshot          | EntityRailgunShot           |      5 |
+| Immersive Engineering      | immersiveengineering:revolvershot         | EntityRevolvershot          |      0 |
+| Immersive Engineering      | immersiveengineering:revolvershotflare    | EntityRevolvershotFlare     |      6 |
+| Immersive Engineering      | immersiveengineering:revolvershothoming   | EntityRevolvershotHoming    |      2 |
+| Immersive Engineering      | immersiveengineering:revolvershotwolfpack | EntityWolfpackShot          |      3 |
+| Immersive Engineering      | immersiveengineering:skylinehook          | EntitySkylineHook           |      1 |
+| Industrial Foregoing       | industrialforegoing:pink_slime            | EntityPinkSlime             | 135135 |
+| Minecraft                  | clumps:xp_orb_big                         | EntityXPOrbBig              |    315 |
+| Minecraft                  | minecraft:area_effect_cloud               | EntityAreaEffectCloud       |      3 |
+| Minecraft                  | minecraft:armor_stand                     | EntityArmorStand            |     30 |
+| Minecraft                  | minecraft:arrow                           | EntityTippedArrow           |     10 |
+| Minecraft                  | minecraft:bat                             | EntityBat                   |     65 |
+| Minecraft                  | minecraft:blaze                           | EntityBlaze                 |     61 |
+| Minecraft                  | minecraft:boat                            | EntityBoat                  |     41 |
+| Minecraft                  | minecraft:cave_spider                     | EntityCaveSpider            |     59 |
+| Minecraft                  | minecraft:chest_minecart                  | EntityMinecartChest         |     43 |
+| Minecraft                  | minecraft:chicken                         | EntityChicken               |     93 |
+| Minecraft                  | minecraft:commandblock_minecart           | EntityMinecartCommandBlock  |     40 |
+| Minecraft                  | minecraft:cow                             | EntityCow                   |     92 |
+| Minecraft                  | minecraft:creeper                         | EntityCreeper               |     50 |
+| Minecraft                  | minecraft:donkey                          | EntityDonkey                |     31 |
+| Minecraft                  | minecraft:dragon_fireball                 | EntityDragonFireball        |     26 |
+| Minecraft                  | minecraft:egg                             | EntityEgg                   |      7 |
+| Minecraft                  | minecraft:elder_guardian                  | EntityElderGuardian         |      4 |
+| Minecraft                  | minecraft:ender_crystal                   | EntityEnderCrystal          |    200 |
+| Minecraft                  | minecraft:ender_dragon                    | EntityDragon                |     63 |
+| Minecraft                  | minecraft:ender_pearl                     | EntityEnderPearl            |     14 |
+| Minecraft                  | minecraft:enderman                        | EntityEnderman              |     58 |
+| Minecraft                  | minecraft:endermite                       | EntityEndermite             |     67 |
+| Minecraft                  | minecraft:evocation_fangs                 | EntityEvokerFangs           |     33 |
+| Minecraft                  | minecraft:evocation_illager               | EntityEvoker                |     34 |
+| Minecraft                  | minecraft:eye_of_ender_signal             | EntityEnderEye              |     15 |
+| Minecraft                  | minecraft:falling_block                   | EntityFallingBlock          |     21 |
+| Minecraft                  | minecraft:fireball                        | EntityLargeFireball         |     12 |
+| Minecraft                  | minecraft:fireworks_rocket                | EntityFireworkRocket        |     22 |
+| Minecraft                  | minecraft:furnace_minecart                | EntityMinecartFurnace       |     44 |
+| Minecraft                  | minecraft:ghast                           | EntityGhast                 |     56 |
+| Minecraft                  | minecraft:giant                           | EntityGiantZombie           |     53 |
+| Minecraft                  | minecraft:guardian                        | EntityGuardian              |     68 |
+| Minecraft                  | minecraft:hopper_minecart                 | EntityMinecartHopper        |     46 |
+| Minecraft                  | minecraft:horse                           | EntityHorse                 |    100 |
+| Minecraft                  | minecraft:husk                            | EntityHusk                  |     23 |
+| Minecraft                  | minecraft:illusion_illager                | EntityIllusionIllager       |     37 |
+| Minecraft                  | minecraft:item                            | EntityItem                  |      1 |
+| Minecraft                  | minecraft:item_frame                      | EntityItemFrame             |     18 |
+| Minecraft                  | minecraft:leash_knot                      | EntityLeashKnot             |      8 |
+| Minecraft                  | minecraft:llama                           | EntityLlama                 |    103 |
+| Minecraft                  | minecraft:llama_spit                      | EntityLlamaSpit             |    104 |
+| Minecraft                  | minecraft:magma_cube                      | EntityMagmaCube             |     62 |
+| Minecraft                  | minecraft:minecart                        | EntityMinecartEmpty         |     42 |
+| Minecraft                  | minecraft:mooshroom                       | EntityMooshroom             |     96 |
+| Minecraft                  | minecraft:mule                            | EntityMule                  |     32 |
+| Minecraft                  | minecraft:ocelot                          | EntityOcelot                |     98 |
+| Minecraft                  | minecraft:painting                        | EntityPainting              |      9 |
+| Minecraft                  | minecraft:parrot                          | EntityParrot                |    105 |
+| Minecraft                  | minecraft:pig                             | EntityPig                   |     90 |
+| Minecraft                  | minecraft:polar_bear                      | EntityPolarBear             |    102 |
+| Minecraft                  | minecraft:potion                          | EntityPotion                |     16 |
+| Minecraft                  | minecraft:rabbit                          | EntityRabbit                |    101 |
+| Minecraft                  | minecraft:sheep                           | EntitySheep                 |     91 |
+| Minecraft                  | minecraft:shulker                         | EntityShulker               |     69 |
+| Minecraft                  | minecraft:shulker_bullet                  | EntityShulkerBullet         |     25 |
+| Minecraft                  | minecraft:silverfish                      | EntitySilverfish            |     60 |
+| Minecraft                  | minecraft:skeleton                        | EntitySkeleton              |     51 |
+| Minecraft                  | minecraft:skeleton_horse                  | EntitySkeletonHorse         |     28 |
+| Minecraft                  | minecraft:slime                           | EntitySlime                 |     55 |
+| Minecraft                  | minecraft:small_fireball                  | EntitySmallFireball         |     13 |
+| Minecraft                  | minecraft:snowball                        | EntitySnowball              |     11 |
+| Minecraft                  | minecraft:snowman                         | EntitySnowman               |     97 |
+| Minecraft                  | minecraft:spawner_minecart                | EntityMinecartMobSpawner    |     47 |
+| Minecraft                  | minecraft:spectral_arrow                  | EntitySpectralArrow         |     24 |
+| Minecraft                  | minecraft:spider                          | EntitySpider                |     52 |
+| Minecraft                  | minecraft:squid                           | EntitySquid                 |     94 |
+| Minecraft                  | minecraft:stray                           | EntityStray                 |      6 |
+| Minecraft                  | minecraft:tnt                             | EntityTNTPrimed             |     20 |
+| Minecraft                  | minecraft:tnt_minecart                    | EntityMinecartTNT           |     45 |
+| Minecraft                  | minecraft:vex                             | EntityVex                   |     35 |
+| Minecraft                  | minecraft:villager                        | EntityVillager              |    120 |
+| Minecraft                  | minecraft:villager_golem                  | EntityIronGolem             |     99 |
+| Minecraft                  | minecraft:vindication_illager             | EntityVindicator            |     36 |
+| Minecraft                  | minecraft:witch                           | EntityWitch                 |     66 |
+| Minecraft                  | minecraft:wither                          | EntityWither                |     64 |
+| Minecraft                  | minecraft:wither_skeleton                 | EntityWitherSkeleton        |      5 |
+| Minecraft                  | minecraft:wither_skull                    | EntityWitherSkull           |     19 |
+| Minecraft                  | minecraft:wolf                            | EntityWolf                  |     95 |
+| Minecraft                  | minecraft:xp_bottle                       | EntityExpBottle             |     17 |
+| Minecraft                  | minecraft:xp_orb                          | EntityXPOrb                 |      2 |
+| Minecraft                  | minecraft:zombie                          | EntityZombie                |     54 |
+| Minecraft                  | minecraft:zombie_horse                    | EntityZombieHorse           |     29 |
+| Minecraft                  | minecraft:zombie_pigman                   | EntityPigZombie             |     57 |
+| Minecraft                  | minecraft:zombie_villager                 | EntityZombieVillager        |     27 |
+| MrCrayfish's Furniture Mod | cfm:mirror                                | EntityMirror                |      1 |
+| MrCrayfish's Furniture Mod | cfm:mountable_block                       | EntitySittableBlock         |      0 |
+| Psi                        | psi:spell_charge                          | EntitySpellCharge           |      3 |
+| Psi                        | psi:spell_circle                          | EntitySpellCircle           |      1 |
+| Psi                        | psi:spell_grenade                         | EntitySpellGrenade          |      2 |
+| Psi                        | psi:spell_mine                            | EntitySpellMine             |      4 |
+| Psi                        | psi:spell_projectile                      | EntitySpellProjectile       |      0 |
+| Quark                      | quark:arrow_ender                         | EntityArrowEnder            |      5 |
+| Quark                      | quark:arrow_explosive                     | EntityArrowExplosive        |      6 |
+| Quark                      | quark:arrow_torch                         | EntityArrowTorch            |      7 |
+| Quark                      | quark:ashen                               | EntityAshen                 |      1 |
+| Quark                      | quark:colored_item_frame                  | EntityColoredItemFrame      |      0 |
+| Quark                      | quark:dragon_breath_bottle                | EntityDragonBreathBottle    |     11 |
+| Quark                      | quark:dweller                             | EntityDweller               |      2 |
+| Quark                      | quark:flat_item_frame                     | EntityFlatItemFrame         |      9 |
+| Quark                      | quark:glass_item_frame                    | EntityGlassItemFrame        |     10 |
+| Quark                      | quark:pirate                              | EntityPirate                |      3 |
+| Quark                      | quark:soul_powder                         | EntitySoulPowder            |      8 |
+| Quark                      | quark:wraith                              | EntityWraith                |      4 |
+| Reliquary                  | xreliquary:blaze_shot                     | EntityBlazeShot             |      5 |
+| Reliquary                  | xreliquary:buster_shot                    | EntityBusterShot            |      8 |
+| Reliquary                  | xreliquary:concussive_shot                | EntityConcussiveShot        |      7 |
+| Reliquary                  | xreliquary:ender_shot                     | EntityEnderShot             |      6 |
+| Reliquary                  | xreliquary:ender_staff_projectile         | EntityEnderStaffProjectile  |     23 |
+| Reliquary                  | xreliquary:exorcism_shot                  | EntityExorcismShot          |      4 |
+| Reliquary                  | xreliquary:hand_grenade                   | EntityHolyHandGrenade       |      0 |
+| Reliquary                  | xreliquary:holy_water                     | EntityGlowingWater          |      1 |
+| Reliquary                  | xreliquary:kraken_slime                   | EntityKrakenSlime           |     22 |
+| Reliquary                  | xreliquary:lyssa_hook                     | EntityLyssaHook             |     14 |
+| Reliquary                  | xreliquary:neutral_shot                   | EntityNeutralShot           |      3 |
+| Reliquary                  | xreliquary:sand_shot                      | EntitySandShot              |     10 |
+| Reliquary                  | xreliquary:seeker_shot                    | EntitySeekerShot            |      9 |
+| Reliquary                  | xreliquary:special_snowball               | EntitySpecialSnowball       |      2 |
+| Reliquary                  | xreliquary:storm_shot                     | EntityStormShot             |     11 |
+| Reliquary                  | xreliquary:thrown_aphrodite               | EntityAttractionPotion      |     12 |
+| Reliquary                  | xreliquary:thrown_fertility               | EntityFertilePotion         |     21 |
+| Reliquary                  | xreliquary:thrown_potion                  | EntityThrownXRPotion        |     13 |
+| Reliquary                  | xreliquary:tipped arrow                   | EntityXRTippedArrow         |     24 |
+| Roots 2                    | roots:auspicious_point                    | EntityAuspiciousPoint       |      0 |
+| Roots 2                    | roots:barrow                              | EntityBarrow                |     15 |
+| Roots 2                    | roots:blink_projectile                    | EntityBlinkProjectile       |     19 |
+| Roots 2                    | roots:boost                               | EntityBoost                 |      5 |
+| Roots 2                    | roots:deer                                | EntityDeer                  |      6 |
+| Roots 2                    | roots:fairy                               | EntityFairy                 |     17 |
+| Roots 2                    | roots:fairy_circle                        | EntityFairyCircle           |     18 |
+| Roots 2                    | roots:fire_jet                            | EntityFireJet               |      1 |
+| Roots 2                    | roots:flare                               | EntityFlare                 |     11 |
+| Roots 2                    | roots:petal_shell                         | EntityPetalShell            |      3 |
+| Roots 2                    | roots:ritual_fire_storm                   | EntityRitualFireStorm       |     10 |
+| Roots 2                    | roots:ritual_life                         | EntityRitualLife            |      7 |
+| Roots 2                    | roots:ritual_light                        | EntityRitualLight           |      9 |
+| Roots 2                    | roots:ritual_regrowth                     | EntityRitualRegrowth        |     12 |
+| Roots 2                    | roots:ritual_storm                        | EntityRitualStorm           |      8 |
+| Roots 2                    | roots:ritual_warden                       | EntityRitualWarden          |     16 |
+| Roots 2                    | roots:ritual_windwall                     | EntityRitualWindwall        |     13 |
+| Roots 2                    | roots:sprout                              | EntitySprout                |     14 |
+| Roots 2                    | roots:thorn_trap                          | EntityThornTrap             |      2 |
+| Roots 2                    | roots:time_stop                           | EntityTimeStop              |      4 |
+| Rustic                     | rustic:tomato                             | EntityTomato                |      0 |
+| Tough As Nails             | toughasnails:freeze                       | EntityFreeze                |      2 |
+| Tough As Nails             | toughasnails:iceball                      | EntityIceball               |      1 |
+| Waddles                    | waddles:adelie_penguin                    | EntityAdeliePenguin         |      1 |
+| p455w0rd's Library         | p455w0rdslib:sitting_entity               | EntitySittableBlock         |      0 |
++----------------------------+-------------------------------------------+-----------------------------+--------+
+| Mod name                   | Registry name                             | Entity class name           |     ID |
++----------------------------+-------------------------------------------+-----------------------------+--------+

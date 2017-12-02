@@ -1,0 +1,177 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "WoodStorage",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "minecraft:log",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "minecraft:log",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "minecraft:log",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:planks",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:planks",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:planks",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "minecraft:stick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 3,
+      "max": 8,
+      "item": {
+        "id": "roots:bark_oak",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "roots:bark_birch",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "roots:bark_dark_oak",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "roots:bark_spruce",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "roots:bark_acacia",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "roots:bark_jungle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:stone_knife",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:stone_axe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:iron_knife",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_axe",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

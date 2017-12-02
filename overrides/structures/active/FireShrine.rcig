@@ -1,0 +1,739 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "FireShrine",
+  "items": [
+    {
+      "weight": 1.5121370553970337,
+      "min": 1,
+      "max": 39,
+      "item": {
+        "id": "minecraft:coal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 25,
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.124999523162842,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:lava_bucket",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:fire_charge",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 5,
+      "max": 16,
+      "item": {
+        "id": "minecraft:redstone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 13,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:infernal_claws",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:pyromancer_staff",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:rod_of_lyssa",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:salamander_eye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "embers:archaic_brick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "embers:ancient_motive_core",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:codex",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:ember_cluster",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "embers:isolated_materia",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "potionfingers:ring",
+        "damage": 1,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "effect": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:effect.combustion"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 4,
+      "max": 13,
+      "item": {
+        "id": "embers:ingot_copper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 2,
+      "max": 6,
+      "item": {
+        "id": "embers:ingot_lead",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 3,
+      "max": 7,
+      "item": {
+        "id": "embers:ingot_silver",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.2900550961494446,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "embers:ingot_dawnstone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 2,
+      "max": 6,
+      "item": {
+        "id": "embers:ingot_mithril",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:alchemic_waste",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "embers:dust_ash",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:tyrfing",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 3,
+      "max": 9,
+      "item": {
+        "id": "minecraft:obsidian",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:fire_resistance"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:tipped_arrow",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extrautils2:xu2.greek.fire"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 5,
+      "max": 9,
+      "item": {
+        "id": "minecraft:tipped_arrow",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extrautils2:xu2.doom"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 20
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 17
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 48
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 16
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "minecraft:blaze_powder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:dragon_breath",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.strength.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.glowing.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.haste.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.fire_resistance.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:splash_potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:combustion_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:lingering_potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:combustion_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "botania:grassseeds",
+        "damage": 6,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

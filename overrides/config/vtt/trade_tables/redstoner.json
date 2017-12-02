@@ -1,0 +1,32 @@
+{ 
+	Profession: "vtt:redstoner", 
+	Career:"redstoner",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"add", buy:{id:"minecraft:redstone",Count:{min:24,max:27}},sell:{id:"minecraft:emerald",Count:{min:2,max:3}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"minecraft:redstone",Count:{min:18,max:24}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:redstone_lamp",Count:{min:4,max:5}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:piston",Count:{min:4,max:5}}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:hopper",Count:{min:3,max:4}},CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"hopperducts:hopperduct",Count:{min:10,max:12}},CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:repeater",Count:{min:4,max:5}},CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:comparator",Count:{min:4,max:5}},CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:dropper",Count:{min:4,max:5}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:3},sell:{id:"minecraft:sticky_piston",Count:{min:4,max:5}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:16}},sell:{id:"minecraft:daylight_detector",Count:1},CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"hopperducts:gratedhopper",Count:{min:4,max:5}}, CareerLevel:3},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4}},sell:{id:"extrautils2:ingredients",Damage:0,Count:{min:4,max:6}},CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"minecraft:tnt",Count:{min:4,max:5}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"extrautils2:redstoneclock",Count:{min:4,max:5}},CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"refinedrelocation:sorting_upgrade",Count:{min:4,max:5}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"refinedrelocation:sorting_connector",Count:{min:12,max:16}}, CareerLevel:4}
+
+		]
+	}
+
+}

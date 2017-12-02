@@ -1,0 +1,45 @@
++------------------------------------------+-------------------------------------+-------------+-----------+
+| Registry name                            | Name                                | Type        | Rarity    |
++------------------------------------------+-------------------------------------+-------------+-----------+
+| astralsorcery:enchantment.as.nightvision | enchantment.as.nightvision          | ARMOR       | VERY_RARE |
+| astralsorcery:enchantment.as.smelting    | enchantment.as.smelting             | DIGGER      | VERY_RARE |
+| corpsecomplex:soulbound                  | enchantment.corpsecomplex.soulbound | ALL         | VERY_RARE |
+| extrautils2:xu.bladerang                 | enchantment.xu.bladerang            | BOOMERANG   | COMMON    |
+| extrautils2:xu.boomereaperang            | enchantment.xu.boomereaperang       | BOOMERANG   | COMMON    |
+| extrautils2:xu.burnerang                 | enchantment.xu.burnerang            | BOOMERANG   | COMMON    |
+| extrautils2:xu.kaboomerang               | enchantment.xu.kaboomerang          | BOOMERANG   | COMMON    |
+| extrautils2:xu.zoomerang                 | enchantment.xu.zoomerang            | BOOMERANG   | COMMON    |
+| minecraft:aqua_affinity                  | enchantment.waterWorker             | ARMOR_HEAD  | RARE      |
+| minecraft:bane_of_arthropods             | enchantment.damage.arthropods       | WEAPON      | UNCOMMON  |
+| minecraft:binding_curse                  | enchantment.binding_curse           | WEARABLE    | VERY_RARE |
+| minecraft:blast_protection               | enchantment.protect.explosion       | ARMOR       | RARE      |
+| minecraft:depth_strider                  | enchantment.waterWalker             | ARMOR_FEET  | RARE      |
+| minecraft:efficiency                     | enchantment.digging                 | DIGGER      | COMMON    |
+| minecraft:feather_falling                | enchantment.protect.fall            | ARMOR_FEET  | UNCOMMON  |
+| minecraft:fire_aspect                    | enchantment.fire                    | WEAPON      | RARE      |
+| minecraft:fire_protection                | enchantment.protect.fire            | ARMOR       | UNCOMMON  |
+| minecraft:flame                          | enchantment.arrowFire               | BOW         | RARE      |
+| minecraft:fortune                        | enchantment.lootBonusDigger         | DIGGER      | RARE      |
+| minecraft:frost_walker                   | enchantment.frostWalker             | ARMOR_FEET  | RARE      |
+| minecraft:infinity                       | enchantment.arrowInfinite           | BOW         | VERY_RARE |
+| minecraft:knockback                      | enchantment.knockback               | WEAPON      | UNCOMMON  |
+| minecraft:looting                        | enchantment.lootBonus               | WEAPON      | RARE      |
+| minecraft:luck_of_the_sea                | enchantment.lootBonusFishing        | FISHING_ROD | RARE      |
+| minecraft:lure                           | enchantment.fishingSpeed            | FISHING_ROD | RARE      |
+| minecraft:mending                        | enchantment.mending                 | BREAKABLE   | RARE      |
+| minecraft:power                          | enchantment.arrowDamage             | BOW         | COMMON    |
+| minecraft:projectile_protection          | enchantment.protect.projectile      | ARMOR       | UNCOMMON  |
+| minecraft:protection                     | enchantment.protect.all             | ARMOR       | COMMON    |
+| minecraft:punch                          | enchantment.arrowKnockback          | BOW         | RARE      |
+| minecraft:respiration                    | enchantment.oxygen                  | ARMOR_HEAD  | RARE      |
+| minecraft:sharpness                      | enchantment.damage.all              | WEAPON      | COMMON    |
+| minecraft:silk_touch                     | enchantment.untouching              | DIGGER      | VERY_RARE |
+| minecraft:smite                          | enchantment.damage.undead           | WEAPON      | UNCOMMON  |
+| minecraft:sweeping                       | enchantment.sweeping                | WEAPON      | RARE      |
+| minecraft:thorns                         | enchantment.thorns                  | ARMOR_CHEST | VERY_RARE |
+| minecraft:unbreaking                     | enchantment.durability              | BREAKABLE   | UNCOMMON  |
+| minecraft:vanishing_curse                | enchantment.vanishing_curse         | ALL         | VERY_RARE |
+| spartanshields:ssenchspikes              | enchantment.spartanshields:spikes   | BREAKABLE   | UNCOMMON  |
++------------------------------------------+-------------------------------------+-------------+-----------+
+| Registry name                            | Name                                | Type        | Rarity    |
++------------------------------------------+-------------------------------------+-------------+-----------+

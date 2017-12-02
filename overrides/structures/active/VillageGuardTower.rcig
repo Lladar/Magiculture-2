@@ -1,0 +1,289 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "VillageGuardTower",
+  "items": [
+    {
+      "weight": 2.7249209880828857,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.78,
+      "min": 12,
+      "max": 24,
+      "item": {
+        "id": "minecraft:arrow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wooden_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.27,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:clock",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.14,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:compass",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.61,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_axe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:hero_medallion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:chainmail_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:chainmail_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:chainmail_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:chainmail_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:regeneration"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.8473554849624634,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "spartanshields:shield_basic_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.1894346475601196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "spartanshields:shield_basic_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dynamicswordskills:skillorb",
+        "damage": 3,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,116 @@
+{ 
+	Profession:"vtt:unholy", 
+	Career:"occultist",
+
+	Offers:{
+		Recipes:[
+		
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:ender_pearl",Count:{min:6,max:7}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"quark:biotite",Count:{min:15,max:18}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:8,max:9}},
+				sell: {id:"minecraft:ender_pearl",Count:2}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:3,max:4}},
+				sell: {id:"minecraft:obsidian",Count:{min:4,max:6}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"xreliquary:mob_ingredient",Damage:11,Count:{min:3,max:4}},
+				sell: {id:"minecraft:emerald",Count:{min:6,max:8}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:chorus_fruit",Count:{min:12,max:15}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:shulker_shell",Count:{min:5,max:6}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:emerald",Count:{min:7,max:9}},
+				sell: {id:"quark:arrow_ender",Count:{min:7,max:9}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:16,max:18}},
+				sell: {id:"minecraft:dragon_breath",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:16,max:18}},
+				sell: {id:"botania:manaresource",Damage:15,Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:12,max:16}},
+				sell: {id:"extrautils2:enderlilly",Count:3}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:16,max:24}},
+				sell: {id:"botania:enderdagger",Count:1,tag:{ench:"30"}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:12,max:15}},
+				sell: {id:"endercompass:ender_compass",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"quark:enderdragon_scale",Count:1},
+				sell: {id:"minecraft:emerald",Count:{min:27,max:32}}
+			},
+			
+			{
+				action:"add", 
+				buyB:{id:"minecraft:emerald",Count:{min:4,max:7}}, buy:{id:"potionfingers:ring",Count:1,Damage:0},
+				sell:{id:"potionfingers:ring",Count:1,Damage:1,tag:{effect:"extraalchemy:effect.dislocation"}}, 
+				CareerLevel:4
+			}
+		
+		]
+	}
+
+}

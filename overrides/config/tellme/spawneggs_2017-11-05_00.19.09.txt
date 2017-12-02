@@ -1,0 +1,61 @@
++--------------------------------+--------------------------------+-------------------------+-------------------------+
+| Registry Name                  | Spawned ID                     | Egg primary color       | Egg secondary color     |
++--------------------------------+--------------------------------+-------------------------+-------------------------+
+| embers:ancient_golem           | embers:ancient_golem           | 0x00302623 (   3155491) | 0x004F423D (   5194301) |
+| grue:entitygrue                | grue:entitygrue                | 0x00000000 (         0) | 0x00000000 (         0) |
+| industrialforegoing:pink_slime | industrialforegoing:pink_slime | 0x00A00064 (  10485860) | 0x00FFFFFF (  16777215) |
+| minecraft:bat                  | minecraft:bat                  | 0x004C3E30 (   4996656) | 0x000F0F0F (    986895) |
+| minecraft:blaze                | minecraft:blaze                | 0x00F6B201 (  16167425) | 0x00FFF87E (  16775294) |
+| minecraft:cave_spider          | minecraft:cave_spider          | 0x000C424E (    803406) | 0x00A80E0E (  11013646) |
+| minecraft:chicken              | minecraft:chicken              | 0x00A1A1A1 (  10592673) | 0x00FF0000 (  16711680) |
+| minecraft:cow                  | minecraft:cow                  | 0x00443626 (   4470310) | 0x00A1A1A1 (  10592673) |
+| minecraft:creeper              | minecraft:creeper              | 0x000DA70B (    894731) | 0x00000000 (         0) |
+| minecraft:donkey               | minecraft:donkey               | 0x00534539 (   5457209) | 0x00867566 (   8811878) |
+| minecraft:elder_guardian       | minecraft:elder_guardian       | 0x00CECCBA (  13552826) | 0x00747693 (   7632531) |
+| minecraft:enderman             | minecraft:enderman             | 0x00161616 (   1447446) | 0x00000000 (         0) |
+| minecraft:endermite            | minecraft:endermite            | 0x00161616 (   1447446) | 0x006E6E6E (   7237230) |
+| minecraft:evocation_illager    | minecraft:evocation_illager    | 0x00959B9B (   9804699) | 0x001E1C1A (   1973274) |
+| minecraft:ghast                | minecraft:ghast                | 0x00F9F9F9 (  16382457) | 0x00BCBCBC (  12369084) |
+| minecraft:guardian             | minecraft:guardian             | 0x005A8272 (   5931634) | 0x00F17D30 (  15826224) |
+| minecraft:horse                | minecraft:horse                | 0x00C09E7D (  12623485) | 0x00EEE500 (  15656192) |
+| minecraft:husk                 | minecraft:husk                 | 0x00797061 (   7958625) | 0x00E6CC94 (  15125652) |
+| minecraft:llama                | minecraft:llama                | 0x00C09E7D (  12623485) | 0x00995F40 (  10051392) |
+| minecraft:magma_cube           | minecraft:magma_cube           | 0x00340000 (   3407872) | 0x00FCFC00 (  16579584) |
+| minecraft:mooshroom            | minecraft:mooshroom            | 0x00A00F10 (  10489616) | 0x00B7B7B7 (  12040119) |
+| minecraft:mule                 | minecraft:mule                 | 0x001B0200 (   1769984) | 0x0051331D (   5321501) |
+| minecraft:ocelot               | minecraft:ocelot               | 0x00EFDE7D (  15720061) | 0x00564434 (   5653556) |
+| minecraft:parrot               | minecraft:parrot               | 0x000DA70B (    894731) | 0x00FF0000 (  16711680) |
+| minecraft:pig                  | minecraft:pig                  | 0x00F0A5A2 (  15771042) | 0x00DB635F (  14377823) |
+| minecraft:polar_bear           | minecraft:polar_bear           | 0x00F2F2F2 (  15921906) | 0x00959590 (   9803152) |
+| minecraft:rabbit               | minecraft:rabbit               | 0x00995F40 (  10051392) | 0x00734831 (   7555121) |
+| minecraft:sheep                | minecraft:sheep                | 0x00E7E7E7 (  15198183) | 0x00FFB5B5 (  16758197) |
+| minecraft:shulker              | minecraft:shulker              | 0x00946794 (   9725844) | 0x004D3852 (   5060690) |
+| minecraft:silverfish           | minecraft:silverfish           | 0x006E6E6E (   7237230) | 0x00303030 (   3158064) |
+| minecraft:skeleton             | minecraft:skeleton             | 0x00C1C1C1 (  12698049) | 0x00494949 (   4802889) |
+| minecraft:skeleton_horse       | minecraft:skeleton_horse       | 0x0068684F (   6842447) | 0x00E5E5D8 (  15066584) |
+| minecraft:slime                | minecraft:slime                | 0x0051A03E (   5349438) | 0x007EBF6E (   8306542) |
+| minecraft:spider               | minecraft:spider               | 0x00342D27 (   3419431) | 0x00A80E0E (  11013646) |
+| minecraft:squid                | minecraft:squid                | 0x00223B4D (   2243405) | 0x00708899 (   7375001) |
+| minecraft:stray                | minecraft:stray                | 0x00617677 (   6387319) | 0x00DDEAEA (  14543594) |
+| minecraft:vex                  | minecraft:vex                  | 0x007A90A4 (   8032420) | 0x00E8EDF1 (  15265265) |
+| minecraft:villager             | minecraft:villager             | 0x00563C33 (   5651507) | 0x00BD8B72 (  12422002) |
+| minecraft:vindication_illager  | minecraft:vindication_illager  | 0x00959B9B (   9804699) | 0x00275E61 (   2580065) |
+| minecraft:witch                | minecraft:witch                | 0x00340000 (   3407872) | 0x0051A03E (   5349438) |
+| minecraft:wither_skeleton      | minecraft:wither_skeleton      | 0x00141414 (   1315860) | 0x00474D4D (   4672845) |
+| minecraft:wolf                 | minecraft:wolf                 | 0x00D7D3D3 (  14144467) | 0x00CEAF96 (  13545366) |
+| minecraft:zombie               | minecraft:zombie               | 0x0000AFAF (     44975) | 0x00799C65 (   7969893) |
+| minecraft:zombie_horse         | minecraft:zombie_horse         | 0x00315234 (   3232308) | 0x0097C284 (   9945732) |
+| minecraft:zombie_pigman        | minecraft:zombie_pigman        | 0x00EA9393 (  15373203) | 0x004C7129 (   5009705) |
+| minecraft:zombie_villager      | minecraft:zombie_villager      | 0x00563C33 (   5651507) | 0x00799C65 (   7969893) |
+| quark:ashen                    | quark:ashen                    | 0x00838376 (   8618870) | 0x00533D3C (   5455164) |
+| quark:dweller                  | quark:dweller                  | 0x004A5944 (   4872516) | 0x003F2020 (   4136992) |
+| quark:pirate                   | quark:pirate                   | 0x004D1D14 (   5053716) | 0x00AC9617 (  11310615) |
+| quark:wraith                   | quark:wraith                   | 0x00ECECEC (  15527148) | 0x00BDBDBD (  12434877) |
+| roots:deer                     | roots:deer                     | 0x00A18458 (  10585176) | 0x005E4D33 (   6180147) |
+| roots:fairy                    | roots:fairy                    | 0x00FFD6FF (  16766719) | 0x00D1FFAD (  13762477) |
+| roots:sprout                   | roots:sprout                   | 0x0088BF21 (   8961825) | 0x00A5E82A (  10872874) |
+| toughasnails:freeze            | toughasnails:freeze            | 0x00ECFAF4 (  15530740) | 0x00439FC3 (   4431811) |
+| waddles:adelie_penguin         | waddles:adelie_penguin         | 0x00000000 (         0) | 0x00FFFFFF (  16777215) |
++--------------------------------+--------------------------------+-------------------------+-------------------------+
+| Registry Name                  | Spawned ID                     | Egg primary color       | Egg secondary color     |
++--------------------------------+--------------------------------+-------------------------+-------------------------+

@@ -1,0 +1,123 @@
+{ 
+	Profession:"vtt:mage", 
+	Career:"wizard",
+
+	Offers:{
+		Recipes:[
+	
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:5,max:6}},
+				sell: {id:"minecraft:experience_bottle",Count:{min:3,max:4}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:dye",Damage:4,Count:{min:27,max:32}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"astralsorcery:itemcraftingcomponent",Damage:0,Count:{min:16,max:19},Damage:0},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},
+				sell: {id:"waystones:return_scroll",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},
+				sell: {id:"botania:manabottle",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"botania:manaresource",Damage:0,Count:{min:8,max:9},Damage:0},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},
+				sell: {id:"astralsorcery:itemusabledust",Damage:0,Count:{min:7,max:9}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:5},Damage:0},
+				sell: {id:"astralsorcery:itemusabledust",Damage:1,Count:{min:7,max:9}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},
+				sell: {id:"astralsorcery:itemconstellationpaper",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"astralsorcery:itemcraftingcomponent",Count:{min:6,max:7},Damage:1},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:5},Damage:0},
+				sell: {id:"waystones:warp_scroll",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},
+				sell: {id:"botania:spellcloth",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:9,max:12},Damage:0},
+				sell: {id:"extrautils2:decorativesolidwood",Damage:1,Count:{min:3,max:5}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:5},Damage:0},
+				sell: {id:"quark:rune",Damage:[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:5},Damage:0},
+				sell: {id:"quark:rune",Damage:[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:9,max:12},Damage:0},
+				sell: {id:"waystones:waystone",Count:1}
+			}
+		
+		]
+	}
+
+}

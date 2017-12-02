@@ -1,0 +1,167 @@
+[
+  {
+    "eName": "minecraft:protection",
+    "eMaxLevel": 4,
+    "eItem": "quark:biotite"
+  },
+  {
+    "eName": "minecraft:fire_protection",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:magma_cream"
+  },
+  {
+    "eName": "minecraft:feather_falling",
+    "eMaxLevel": 4,
+    "eItem": "xreliquary:mob_ingredient:5"
+  },
+  {
+    "eName": "minecraft:blast_protection",
+    "eMaxLevel": 4,
+    "eItem": "xreliquary:mob_ingredient:3"
+  },
+  {
+    "eName": "minecraft:projectile_protection",
+    "eMaxLevel": 4,
+    "eItem": "xreliquary:mob_ingredient:0"
+  },
+  {
+    "eName": "minecraft:respiration",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:fish:3"
+  },
+  {
+    "eName": "minecraft:aqua_affinity",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:prismarine_crystals"
+  },
+  {
+    "eName": "minecraft:thorns",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:cactus"
+  },
+  {
+    "eName": "minecraft:depth_strider",
+    "eMaxLevel": 3,
+    "eItem": "xreliquary:mob_ingredient:12"
+  },
+  {
+    "eName": "minecraft:frost_walker",
+    "eMaxLevel": 2,
+    "eItem": "xreliquary:mob_ingredient:10"
+  },
+  {
+    "eName": "minecraft:sharpness",
+    "eMaxLevel": 5,
+    "eItem": "xreliquary:mob_ingredient:13"
+  },
+  {
+    "eName": "minecraft:smite",
+    "eMaxLevel": 5,
+    "eItem": "xreliquary:mob_ingredient:6"
+  },
+  {
+    "eName": "minecraft:bane_of_arthropods",
+    "eMaxLevel": 5,
+    "eItem": "xreliquary:mob_ingredient:2"
+  },
+  {
+    "eName": "minecraft:knockback",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:piston"
+  },
+  {
+    "eName": "minecraft:fire_aspect",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:blaze_powder"
+  },
+  {
+    "eName": "minecraft:looting",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:rabbit_foot"
+  },
+  {
+    "eName": "minecraft:sweeping",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:diamond"
+  },
+  {
+    "eName": "minecraft:efficiency",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:emerald"
+  },
+  {
+    "eName": "minecraft:silk_touch",
+    "eMaxLevel": 1,
+    "eItem": "xreliquary:mob_ingredient:4"
+  },
+  {
+    "eName": "minecraft:unbreaking",
+    "eMaxLevel": 3,
+    "eItem": "immersiveengineering:metal:38"
+  },
+  {
+    "eName": "minecraft:fortune",
+    "eMaxLevel": 3,
+    "eItem": "animania:truffle"
+  },
+  {
+    "eName": "minecraft:power",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:dragon_breath"
+  },
+  {
+    "eName": "minecraft:punch",
+    "eMaxLevel": 2,
+    "eItem": "xreliquary:mob_ingredient:1"
+  },
+  {
+    "eName": "minecraft:flame",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:fire_charge"
+  },
+  {
+    "eName": "minecraft:infinity",
+    "eMaxLevel": 1,
+    "eItem": "xreliquary:mob_ingredient:8"
+  },
+  {
+    "eName": "minecraft:luck_of_the_sea",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:fish:2"
+  },
+  {
+    "eName": "minecraft:lure",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:fish:1"
+  },
+  {
+    "eName": "spartanshields:ssenchspikes",
+    "eMaxLevel": 3,
+    "eItem": "xreliquary:mob_ingredient:16"
+  },
+  {
+    "eName": "minecraft:frost_walker",
+    "eMaxLevel": 2,
+    "eItem": "xreliquary:mob_ingredient:10"
+  },
+  {
+    "eName": "corpsecomplex:soulbound",
+    "eMaxLevel": 1,
+    "eItem": "quark:soul_bead"
+  },
+  {
+    "eName": "astralsorcery:enchantment.as.nightvision",
+    "eMaxLevel": 1,
+    "eItem": "xreliquary:mob_ingredient:11"
+  },
+  {
+    "eName": "astralsorcery:enchantment.as.smelting",
+    "eMaxLevel": 1,
+    "eItem": "xreliquary:mob_ingredient:7"
+  },
+  {
+    "eName": "minecraft:mending",
+    "eMaxLevel": 1,
+    "eItem": "toughasnails:lifeblood_crystal"
+  }
+]

@@ -1,0 +1,100 @@
+{
+	"name" : "magiculture-spawners",
+	"spawners" : [
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 3},
+				{"name" : "minecraft:zombie_villager", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 10},
+				{"name" : "quark:dweller", "weight" : 1}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 3},
+				{"name" : "quark:dweller", "weight" : 2}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie_pigman", "nbt" : "{Anger:32767}", "weight" : 3},
+				{"name" : "quark:dweller", "weight" : 2}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:spider", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:cave_spider", "weight" : 1}
+			],
+			"level" : [2, 3]
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:blaze", "weight" : 3},
+				{"name" : "minecraft:cave_spider", "weight" : 2}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 10},
+				{"name" : "quark:ashen", "weight" : 1}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 3},
+				{"name" : "quark:ashen", "weight" : 2}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton", "weight" : 3},
+				{"name" : "quark:ashen", "weight" : 2}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "ENDERMAN",
+			"potentials" : [
+				{"name" : "minecraft:enderman", "weight" : 3},
+				{"name" : "minecraft:vindication_illager", "weight" : 2},
+				{"name" : "toughasnails:freeze", "weight" : 2},
+				{"name" : "minecraft:witch", "weight" : 1}
+			],
+			"level" : 3
+		}
+	]
+}

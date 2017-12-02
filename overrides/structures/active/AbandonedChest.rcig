@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "AbandonedChest",
+  "items": [
+    {
+      "weight": 2.01,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.09,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.21,
+      "min": 1,
+      "max": 7,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:brown_mushroom",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:red_mushroom",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.14,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.04,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:artifact_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

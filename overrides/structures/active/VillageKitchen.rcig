@@ -1,0 +1,217 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "VillageKitchen",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:cooked_porkchop",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:cooked_beef",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:potato",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "minecraft:baked_potato",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:pumpkin_pie",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:bread",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:cooked_chicken",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:carrot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:beetroot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:cake",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:melon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 8,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "rustic:chili_pepper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 3,
+      "max": 7,
+      "item": {
+        "id": "rustic:grapes",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "rustic:tomato",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

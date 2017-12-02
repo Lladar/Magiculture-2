@@ -1,0 +1,43 @@
+{
+	"name" : "magiculture-rooms",
+	"rooms" : [
+		{"level" : [0, 1, 2, 3], "type" : "random", "name" : "BRICK", "weight" : 10},
+		
+		{"level" : 0, "type" : "single", "name" : "FIRE"},
+		{"level" : 0, "type" : "single", "name" : "CAKE"},
+		{"level" : 0, "type" : "single", "name" : "AVIDA"},
+		
+		{"level" : 1, "type" : "single", "name" : "LAB"},
+		{"level" : 1, "type" : "single", "name" : "MESS"},
+		{"level" : 1, "type" : "single", "name" : "PIT"},
+		
+		{"level" : [2, 3], "type" : "single", "name" : "OSSUARY"},
+		{"level" : 2, "type" : "random", "name" : "CREEPER", "weight" : 2},
+		{"level" : 2, "type" : "random", "name" : "SPIDER", "weight" : 6},
+		{"level" : 2, "type" : "random", "name" : "PIT", "weight" : 4},
+		{"level" : 2, "type" : "random", "name" : "CRYPT", "weight" : 8},
+		{"level" : 2, "type" : "random", "name" : "PRISON", "weight" : 6},
+		
+		{"level" : 3, "type" : "single", "name" : "ENDER"},
+		{"level" : 3, "type" : "single", "name" : "ENCHANT"},
+		{"level" : 3, "type" : "random", "name" : "SLIME", "weight" : 5},
+		{"level" : 3, "type" : "random", "name" : "SPIDER", "weight" : 6},
+		{"level" : 3, "type" : "random", "name" : "CREEPER", "weight" : 4},
+		
+		{"level" : 4, "type" : "single", "name" : "OBSIDIAN"},
+		{"level" : 4, "type" : "single", "name" : "DARKHALL"},
+		{"level" : 4, "type" : "random", "name" : "NETHER", "weight" : 10},
+		{"level" : 4, "type" : "random", "name" : "NETHERFORT", "weight" : 4},
+		{"level" : 4, "type" : "random", "name" : "CRYPT", "weight" : 1},
+		{"level" : 4, "type" : "random", "name" : "BLAZE", "weight" : 2},
+		
+		{"level": 0, "type" : "secret", "name" : "SMITH", "count" : "1"},
+		{"level": 0, "type" : "secret", "name" : "BEDROOM", "count" : "2"},
+		{"level": 0, "type" : "secret", "name" : "FIREWORK", "count" : "1"},
+		{"level": 1, "type" : "secret", "name" : "LIBRARY", "count" : "1"},
+		{"level": 2, "type" : "secret", "name" : "MUSIC", "count" : "1"},
+		{"level": 3, "type" : "secret", "name" : "BTEAM", "count" : "1"},
+		{"level": 4, "type" : "secret", "name" : "PYRAMIDTOMB ", "count" : "1"},
+		{"level": [1, 2, 3, 4], "type" : "secret", "name" : "REWARD", "count" : "1"}
+	]
+}

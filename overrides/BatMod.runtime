@@ -1,0 +1,9 @@
+#Thu Nov 30 19:16:13 EST 2017
+Coords.location=0
+Timer.visible=false
+Info.location=1
+Coords.visible=3
+Info.visible=0
+Timer.running=false
+Timer.location=3
+Timer.saved=00|00|00

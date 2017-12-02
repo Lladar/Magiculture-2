@@ -1,0 +1,19 @@
++-------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Registry name                 | Careers                                                                                                                         |
++-------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| extrautils2:alchemist         | alchemist                                                                                                                       |
+| extrautils2:red_mechanic      | red_mechanic                                                                                                                    |
+| extrautils2:shady_merchant    | shady_merchant                                                                                                                  |
+| immersiveengineering:engineer | immersiveengineering.engineer, immersiveengineering.machinist, immersiveengineering.electrician, immersiveengineering.outfitter |
+| minecraft:butcher             | butcher, leather                                                                                                                |
+| minecraft:farmer              | farmer, fisherman, shepherd, fletcher                                                                                           |
+| minecraft:librarian           | librarian, cartographer                                                                                                         |
+| minecraft:nitwit              | nitwit                                                                                                                          |
+| minecraft:priest              | cleric, necromancer                                                                                                             |
+| minecraft:smith               | armor, weapon, tool                                                                                                             |
+| vtt:brewer                    | brewer                                                                                                                          |
+| vtt:redstoner                 | redstoner                                                                                                                       |
+| vtt:tinkerer                  | tinkerer                                                                                                                        |
++-------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Registry name                 | Careers                                                                                                                         |
++-------------------------------+---------------------------------------------------------------------------------------------------------------------------------+

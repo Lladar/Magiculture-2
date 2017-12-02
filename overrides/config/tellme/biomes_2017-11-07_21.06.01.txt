@@ -1,0 +1,88 @@
++-----+--------------------------------------------+-------------------------+-------------------------+-------------+----------------+----------+------------+
+|  ID | Registry name                              | Biome name              | waterColorMultiplier    | temperature | temp. category | rainfall | enableSnow |
++-----+--------------------------------------------+-------------------------+-------------------------+-------------+----------------+----------+------------+
+|   0 | minecraft:ocean                            | Ocean                   | 0x00FFFFFF (  16777215) |        0.50 | OCEAN          |     0.50 |      false |
+|   1 | minecraft:plains                           | Plains                  | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.40 |      false |
+|   2 | minecraft:desert                           | Desert                  | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|   3 | minecraft:extreme_hills                    | Extreme Hills           | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+|   4 | minecraft:forest                           | Forest                  | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|   5 | minecraft:taiga                            | Taiga                   | 0x00FFFFFF (  16777215) |        0.25 | MEDIUM         |     0.80 |      false |
+|   6 | minecraft:swampland                        | Swampland               | 0x00E0FFAE (  14745518) |        0.80 | MEDIUM         |     0.90 |      false |
+|   7 | minecraft:river                            | River                   | 0x00FFFFFF (  16777215) |        0.50 | MEDIUM         |     0.50 |      false |
+|   8 | minecraft:hell                             | Hell                    | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|   9 | minecraft:sky                              | The End                 | 0x00FFFFFF (  16777215) |        0.50 | MEDIUM         |     0.50 |      false |
+|  10 | minecraft:frozen_ocean                     | FrozenOcean             | 0x00FFFFFF (  16777215) |        0.00 | OCEAN          |     0.50 |       true |
+|  11 | minecraft:frozen_river                     | FrozenRiver             | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  12 | minecraft:ice_flats                        | Ice Plains              | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  13 | minecraft:ice_mountains                    | Ice Mountains           | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  14 | minecraft:mushroom_island                  | MushroomIsland          | 0x00FFFFFF (  16777215) |        0.90 | MEDIUM         |     1.00 |      false |
+|  15 | minecraft:mushroom_island_shore            | MushroomIslandShore     | 0x00FFFFFF (  16777215) |        0.90 | MEDIUM         |     1.00 |      false |
+|  16 | minecraft:beaches                          | Beach                   | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.40 |      false |
+|  17 | minecraft:desert_hills                     | DesertHills             | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  18 | minecraft:forest_hills                     | ForestHills             | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  19 | minecraft:taiga_hills                      | TaigaHills              | 0x00FFFFFF (  16777215) |        0.25 | MEDIUM         |     0.80 |      false |
+|  20 | minecraft:smaller_extreme_hills            | Extreme Hills Edge      | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+|  21 | minecraft:jungle                           | Jungle                  | 0x00FFFFFF (  16777215) |        0.95 | MEDIUM         |     0.90 |      false |
+|  22 | minecraft:jungle_hills                     | JungleHills             | 0x00FFFFFF (  16777215) |        0.95 | MEDIUM         |     0.90 |      false |
+|  23 | minecraft:jungle_edge                      | JungleEdge              | 0x00FFFFFF (  16777215) |        0.95 | MEDIUM         |     0.80 |      false |
+|  24 | minecraft:deep_ocean                       | Deep Ocean              | 0x00FFFFFF (  16777215) |        0.50 | OCEAN          |     0.50 |      false |
+|  25 | minecraft:stone_beach                      | Stone Beach             | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+|  26 | minecraft:cold_beach                       | Cold Beach              | 0x00FFFFFF (  16777215) |        0.05 | COLD           |     0.30 |       true |
+|  27 | minecraft:birch_forest                     | Birch Forest            | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.60 |      false |
+|  28 | minecraft:birch_forest_hills               | Birch Forest Hills      | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.60 |      false |
+|  29 | minecraft:roofed_forest                    | Roofed Forest           | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  30 | minecraft:taiga_cold                       | Cold Taiga              | 0x00FFFFFF (  16777215) |       -0.50 | COLD           |     0.40 |       true |
+|  31 | minecraft:taiga_cold_hills                 | Cold Taiga Hills        | 0x00FFFFFF (  16777215) |       -0.50 | COLD           |     0.40 |       true |
+|  32 | minecraft:redwood_taiga                    | Mega Taiga              | 0x00FFFFFF (  16777215) |        0.30 | MEDIUM         |     0.80 |      false |
+|  33 | minecraft:redwood_taiga_hills              | Mega Taiga Hills        | 0x00FFFFFF (  16777215) |        0.30 | MEDIUM         |     0.80 |      false |
+|  34 | minecraft:extreme_hills_with_trees         | Extreme Hills+          | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+|  35 | minecraft:savanna                          | Savanna                 | 0x00FFFFFF (  16777215) |        1.20 | WARM           |     0.00 |      false |
+|  36 | minecraft:savanna_rock                     | Savanna Plateau         | 0x00FFFFFF (  16777215) |        1.00 | WARM           |     0.00 |      false |
+|  37 | minecraft:mesa                             | Mesa                    | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  38 | minecraft:mesa_rock                        | Mesa Plateau F          | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  39 | minecraft:mesa_clear_rock                  | Mesa Plateau            | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  40 | traverse:autumnal_woods                    | Autumnal Woods          | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  41 | traverse:woodlands                         | Woodlands               | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.40 |      false |
+|  42 | traverse:mini_jungle                       | Mini Jungle             | 0xFF24B01C ( -14372836) |        0.95 | MEDIUM         |     0.90 |      false |
+|  43 | traverse:meadow                            | Meadow                  | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.70 |      false |
+|  44 | traverse:green_swamp                       | Lush Swamp              | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.50 |      false |
+|  45 | traverse:red_desert                        | Red Desert              | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  46 | traverse:temperate_rainforest              | Temperate Rainforest    | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.90 |      false |
+|  47 | traverse:badlands                          | Badlands                | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.10 |      false |
+|  48 | traverse:mountainous_desert                | Mountainous Desert      | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+|  49 | traverse:rocky_plateau                     | Rocky Plateau           | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.20 |      false |
+|  50 | traverse:forested_hills                    | Forested Hills          | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  51 | traverse:birch_forested_hills              | Birch Forested Hills    | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  52 | traverse:autumnal_wooded_hills             | Autumnal Wooded Hills   | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+|  53 | traverse:cliffs                            | Cliffs                  | 0x00FFFFFF (  16777215) |        0.40 | MEDIUM         |     1.20 |      false |
+|  54 | traverse:glacier                           | Glacier                 | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  55 | traverse:glacier_spikes                    | Glacier Spikes          | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  56 | traverse:snowy_coniferous_forest           | Snowy Coniferous Forest | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+|  57 | traverse:lush_hills                        | Lush Hills              | 0x00FFFFFF (  16777215) |        0.50 | MEDIUM         |     0.80 |      false |
+|  58 | traverse:canyon                            | Canyon                  | 0x00FFFFFF (  16777215) |        1.00 | WARM           |     0.00 |      false |
+|  59 | traverse:crag_cliffs                       | Crag Cliffs             | 0x00FFFFFF (  16777215) |        0.40 | MEDIUM         |     0.00 |      false |
+| 127 | minecraft:void                             | The Void                | 0x00FFFFFF (  16777215) |        0.50 | MEDIUM         |     0.50 |      false |
+| 129 | minecraft:mutated_plains                   | Sunflower Plains        | 0x00FFFFFF (  16777215) |        0.80 | MEDIUM         |     0.40 |      false |
+| 130 | minecraft:mutated_desert                   | Desert M                | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+| 131 | minecraft:mutated_extreme_hills            | Extreme Hills M         | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+| 132 | minecraft:mutated_forest                   | Flower Forest           | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+| 133 | minecraft:mutated_taiga                    | Taiga M                 | 0x00FFFFFF (  16777215) |        0.25 | MEDIUM         |     0.80 |      false |
+| 134 | minecraft:mutated_swampland                | Swampland M             | 0x00E0FFAE (  14745518) |        0.80 | MEDIUM         |     0.90 |      false |
+| 140 | minecraft:mutated_ice_flats                | Ice Plains Spikes       | 0x00FFFFFF (  16777215) |        0.00 | COLD           |     0.50 |       true |
+| 149 | minecraft:mutated_jungle                   | Jungle M                | 0x00FFFFFF (  16777215) |        0.95 | MEDIUM         |     0.90 |      false |
+| 151 | minecraft:mutated_jungle_edge              | JungleEdge M            | 0x00FFFFFF (  16777215) |        0.95 | MEDIUM         |     0.80 |      false |
+| 155 | minecraft:mutated_birch_forest             | Birch Forest M          | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.60 |      false |
+| 156 | minecraft:mutated_birch_forest_hills       | Birch Forest Hills M    | 0x00FFFFFF (  16777215) |        0.60 | MEDIUM         |     0.60 |      false |
+| 157 | minecraft:mutated_roofed_forest            | Roofed Forest M         | 0x00FFFFFF (  16777215) |        0.70 | MEDIUM         |     0.80 |      false |
+| 158 | minecraft:mutated_taiga_cold               | Cold Taiga M            | 0x00FFFFFF (  16777215) |       -0.50 | COLD           |     0.40 |       true |
+| 160 | minecraft:mutated_redwood_taiga            | Mega Spruce Taiga       | 0x00FFFFFF (  16777215) |        0.25 | MEDIUM         |     0.80 |      false |
+| 161 | minecraft:mutated_redwood_taiga_hills      | Redwood Taiga Hills M   | 0x00FFFFFF (  16777215) |        0.25 | MEDIUM         |     0.80 |      false |
+| 162 | minecraft:mutated_extreme_hills_with_trees | Extreme Hills+ M        | 0x00FFFFFF (  16777215) |        0.20 | MEDIUM         |     0.30 |      false |
+| 163 | minecraft:mutated_savanna                  | Savanna M               | 0x00FFFFFF (  16777215) |        1.10 | WARM           |     0.00 |      false |
+| 164 | minecraft:mutated_savanna_rock             | Savanna Plateau M       | 0x00FFFFFF (  16777215) |        1.00 | WARM           |     0.00 |      false |
+| 165 | minecraft:mutated_mesa                     | Mesa (Bryce)            | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+| 166 | minecraft:mutated_mesa_rock                | Mesa Plateau F M        | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
+| 167 | minecraft:mutated_mesa_clear_rock          | Mesa Plateau M          | 0x00FFFFFF (  16777215) |        2.00 | WARM           |     0.00 |      false |
++-----+--------------------------------------------+-------------------------+-------------------------+-------------+----------------+----------+------------+
+|  ID | Registry name                              | Biome name              | waterColorMultiplier    | temperature | temp. category | rainfall | enableSnow |
++-----+--------------------------------------------+-------------------------+-------------------------+-------------+----------------+----------+------------+

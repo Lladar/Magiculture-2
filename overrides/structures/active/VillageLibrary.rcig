@@ -1,0 +1,750 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "VillageLibrary",
+  "items": [
+    {
+      "weight": 10.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 5.135135173797607,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "minecraft:book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:writable_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "minecraft:feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:name_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 3,
+      "max": 12,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 5.20270299911499,
+      "min": 5,
+      "max": 24,
+      "item": {
+        "id": "minecraft:paper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:map",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 70
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 51
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 33
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 71
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 34
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 6
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 50
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 10
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:alkahestry_tome",
+        "damage": 1001,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 16
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 17
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 34
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 32
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 19
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 35
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 21
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:spellcraft_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:herblore_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "astralsorcery:itemjournal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:ritual_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "botania:lexicon",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 15,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 11,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 16,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 10,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:tool",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "industrialforegoing:book_manual",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

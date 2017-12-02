@@ -1,0 +1,29 @@
+{ 
+	Profession:"minecraft:librarian", 
+	Career:"cartographer",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear", CareerLevel:1},
+			{action:"clear", CareerLevel:2},
+			{action:"clear", CareerLevel:3},
+		
+			{action:"add", buy:{id:"minecraft:paper",Count:{min:24,max:32}},sell:{id:"minecraft:emerald",Count:{min:2,max:3}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:dye",Damage:0,Count:{min:20,max:24}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:feather",Count:{min:27,max:36}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:map",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:compass",Count:1}, CareerLevel:1},
+			
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:3},sell:{id:"minecraft:clock",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"antiqueatlas:empty_antique_atlas",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4}},sell:{id:"toughasnails:thermometer",Count:1}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"magicalmap:map",Count:1}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"naturescompass:naturescompass",Count:1}, CareerLevel:3}
+			
+		]
+	}
+
+}

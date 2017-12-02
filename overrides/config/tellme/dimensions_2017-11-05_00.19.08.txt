@@ -1,0 +1,12 @@
++--------+------------------+------------------------+-----------------+-------------------------+------------------+
+|     ID | DimensionType ID | Name                   | shouldLoadSpawn | WorldProvider class     | Currently loaded |
++--------+------------------+------------------------+-----------------+-------------------------+------------------+
+|     42 |               42 | underworld             |           false | WorldProviderUnderWorld |             true |
+| -11325 |           -11325 | Deep Dark              |           false | WorldProviderDeepDark   |             true |
+|  -9999 |            -9999 | ExtraUtils2_Quarry_Dim |            true | WorldProviderSpecialDim |             true |
+|      1 |                1 | the_end                |           false | WorldProviderEnd        |             true |
+|     -1 |               -1 | the_nether             |           false | WorldProviderHell       |             true |
+|      0 |                0 | overworld              |            true | WorldProviderSurface    |             true |
++--------+------------------+------------------------+-----------------+-------------------------+------------------+
+|     ID | DimensionType ID | Name                   | shouldLoadSpawn | WorldProvider class     | Currently loaded |
++--------+------------------+------------------------+-----------------+-------------------------+------------------+

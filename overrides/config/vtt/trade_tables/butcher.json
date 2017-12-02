@@ -1,0 +1,37 @@
+{ 
+	Profession:"minecraft:butcher", 
+	Career:"butcher",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear"},
+		
+			{action:"add", buy:{id:"minecraft:porkchop",Count:{min:11,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"animania:raw_prime_pork",Count:{min:7,max:8}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:cooked_porkchop",Count:{min:6,max:7}}, CareerLevel:1},
+		
+			{action:"add", buy:{id:"minecraft:beef",Count:{min:11,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"animania:raw_prime_beef",Count:{min:7,max:8}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:cooked_beef",Count:{min:6,max:7}}, CareerLevel:1},	
+			
+			{action:"add", buy:{id:"minecraft:mutton",Count:{min:11,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"animania:raw_prime_mutton",Count:{min:7,max:8}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:cooked_mutton",Count:{min:6,max:7}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"animania:raw_chevon",Count:{min:11,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"animania:raw_prime_chevon",Count:{min:7,max:8}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"animania:cooked_chevon",Count:{min:6,max:7}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:rabbit",Count:{min:9,max:10}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:3},
+			{action:"add", buy:{id:"animania:raw_prime_rabbit",Count:{min:5,max:6}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:cooked_rabbit",Count:{min:4,max:5}}, CareerLevel:3},
+			
+			{action:"add", buy:{id:"animania:raw_frog_legs",Count:{min:7,max:8}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"animania:cooked_frog_legs",Count:{min:3,max:4}}, CareerLevel:3}
+			
+			
+		]
+	}
+
+}

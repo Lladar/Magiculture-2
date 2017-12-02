@@ -1,0 +1,40 @@
+{
+  "defaults": {
+    "__comment": "You can disable defaults by setting these to false. Do *NOT* try to add additional entries here. You can add additional entries in the custom section.",
+    "Vanilla Seeds": false,
+    "Vanilla Saplings": false,
+    "Bonemeal": false,
+    "Animal Eggs": false,
+    "Pams Harvestcraft Saplings": true,
+    "Pams Harvestcraft Seeds": true
+  },
+  "defaults payment": {
+    "__comment": "You can define custom payment items for the default entries here.",
+    "Vanilla Seeds": "1*minecraft:emerald:0",
+    "Vanilla Saplings": "1*minecraft:emerald:0",
+    "Bonemeal": "1*minecraft:emerald:0",
+    "Animal Eggs": "1*minecraft:emerald:0",
+    "Pams Harvestcraft Saplings": "1*minecraft:emerald:0",
+    "Pams Harvestcraft Seeds": "1*minecraft:emerald:0"
+  },
+  "defaults blacklist": [],
+  "custom entries": {
+    "__comment": "You can define additional items to be sold by the Market here. Defaults can be overridden. Prefix with ! to blacklist instead.",
+    "traverse:fir_sapling": "minecraft:emerald",
+    "traverse:yellow_autumnal_sapling": "minecraft:emerald",
+    "traverse:orange_autumnal_sapling": "minecraft:emerald",
+    "traverse:red_autumnal_sapling": "minecraft:emerald",
+    "traverse:brown_autumnal_sapling": "minecraft:emerald",
+    "rustic:sapling:0": "minecraft:emerald",
+    "rustic:sapling:1": "minecraft:emerald",
+    "rainboaks:rainboak_sapling": "5*minecraft:emerald",
+    "rustic:tomato_seeds": "minecraft:emerald",
+    "rustic:chili_pepper_seeds": "minecraft:emerald",
+    "rustic:grape_stem": "minecraft:emerald",
+    "rustic:apple_seeds": "minecraft:emerald",
+    "roots:moontinged_seed": "2*minecraft:emerald",
+    "roots:terra_moss_spore": "2*minecraft:emerald",
+    "roots:pereskia_bulb": "2*minecraft:emerald",
+    "roots:aubergine_seeds": "2*minecraft:emerald"
+  }
+}

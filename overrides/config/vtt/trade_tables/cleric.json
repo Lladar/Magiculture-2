@@ -1,0 +1,104 @@
+{ 
+	Profession:"minecraft:priest", 
+	Career:"cleric",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear"},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:emerald",Count:{min:5,max:6}},
+				sell: {id:"minecraft:experience_bottle",Count:{min:3,max:4}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:gold_ingot",Count:{min:7,max:9}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"embers:ingot_silver",Count:{min:9,max:12}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:glowstone_dust",Count:{min:27,max:32}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:quartz",Count:{min:18,max:21}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:dye",Damage:4,Count:{min:27,max:32}},
+				sell: {id:"minecraft:emerald",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:6}},
+				sell: {id:"xreliquary:glowing_water",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:4,max:5}},
+				sell: {id:"minecraft:golden_apple",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:2,max:3}},
+				sell: {id:"xreliquary:glowing_bread",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"minecraft:emerald",Count:{min:24,max:27}},
+				sell: {id:"xreliquary:angelheart_vial",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:7,max:9}},
+				sell: {id:"xreliquary:holy_hand_grenade",Count:{min:2,max:3}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:15,max:18}},
+				sell: {id:"xreliquary:mercy_cross",Count:1,tag:{ench:"random"}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 4,
+				buy: {id:"minecraft:emerald",Count:{min:36,max:48}},
+				sell: {id:"toughasnails:lifeblood_crystal",Count:1}
+			}
+		
+		]
+	}
+
+}

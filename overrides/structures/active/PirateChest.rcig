@@ -1,0 +1,731 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "PirateChest",
+  "items": [
+    {
+      "weight": 2.540874481201172,
+      "min": 3,
+      "max": 10,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.65,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.9243392944335938,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:artifact_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:pirate_hat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 4,
+      "max": 10,
+      "item": {
+        "id": "embers:ingot_silver",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 12,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:gun_part",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:gun_part",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:gun_part",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:kraken_shell",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:fortune_coin",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:emperor_chalice",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:midas_touchstone",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:twilight_cloak",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:hero_medallion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extrautils2:bagofholding",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 5.22887276019901E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extrautils2:lawsword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "extrautils2:ingredients",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 3,
+      "max": 8,
+      "item": {
+        "id": "minecraft:gold_nugget",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 16,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "quark:arrow_explosive",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 62
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 21
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 35
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 61
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "minecraft:prismarine_crystals",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 4,
+      "max": 9,
+      "item": {
+        "id": "minecraft:prismarine_shard",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "minecraft:experience_bottle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 5,
+      "max": 13,
+      "item": {
+        "id": "minecraft:gunpowder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 2,
+      "max": 6,
+      "item": {
+        "id": "minecraft:tnt",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:water_bucket",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 16,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "waystones:warp_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.glowing.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.luck.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.unluck.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 3
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.magnetize.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

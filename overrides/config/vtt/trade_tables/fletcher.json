@@ -1,0 +1,29 @@
+{ 
+	Profession:"minecraft:farmer",
+	Career:"fletcher",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear"},
+			
+			{action:"add", buy:{id:"minecraft:feather",Count:{min:24,max:27}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:flint",Count:{min:21,max:24}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:string",Count:{min:16,max:20}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:arrow",Count:{min:27,max:32}}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:bow",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4}},sell:{id:"quark:arrow_torch",Count:{min:24,max:27}}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"quark:arrow_explosive",Count:{min:16,max:20}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"quark:arrow_ender",Count:{min:12,max:16}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:12,max:15}},sell:{id:"minecraft:bow",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:"minecraft:spectral_arrow",Count:{min:24,max:27}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"minecraft:tipped_arrow",Count:{min:8,max:16},tag:[{Potion:"minecraft:harming"},{Potion:"minecraft:long_poison"},{Potion:"minecraft:weakness"},{Potion:"minecraft:mining_fatigue"},{Potion:"minecraft:slowness"},{Potion:"extraalchemy:freezing"},{Potion:"extraalchemy:fuse_normal"},{Potion:"extraalchemy:recall_normal"},{Potion:"extraalchemy:combustion_long"},{Potion:"extraalchemy:beheading_normal"}]}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"minecraft:tipped_arrow",Count:{min:8,max:16},tag:[{Potion:"minecraft:harming"},{Potion:"minecraft:long_poison"},{Potion:"minecraft:weakness"},{Potion:"minecraft:mining_fatigue"},{Potion:"minecraft:slowness"},{Potion:"extraalchemy:freezing"},{Potion:"extraalchemy:fuse_normal"},{Potion:"extraalchemy:recall_normal"},{Potion:"extraalchemy:combustion_long"},{Potion:"extraalchemy:beheading_normal"}]}, CareerLevel:4}
+			
+		]
+	}
+
+}

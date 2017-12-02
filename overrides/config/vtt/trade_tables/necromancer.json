@@ -1,0 +1,130 @@
+{ 
+	Profession:"vtt:unholy", 
+	Career:"necromancer",
+
+	Offers:{
+		Recipes:[
+	
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:bone",Count:{min:18,max:22},Damage:0},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"minecraft:rotten_flesh",Count:{min:18,max:22},Damage:0},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"xreliquary:mob_ingredient",Count:{min:4,max:5},Damage:0},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"xreliquary:mob_ingredient",Count:{min:4,max:5},Damage:6},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"xreliquary:mob_ingredient",Count:{min:4,max:5},Damage:2},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 1,
+				buy: {id:"attaineddrops2:essence",Count:{min:12,max:16},Damage:0},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"minecraft:skull",Count:{min:3,max:4},Damage:0},
+				sell: {id:"minecraft:emerald",Count:1}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buy: {id:"quark:soul_bead",Count:{min:2,max:3},Damage:0},
+				sell: {id:"minecraft:emerald",Count:{min:5,max:6}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buyB: {id:"attaineddrops2:essence",Count:{min:8,max:12}}, buy: {id:"minecraft:skull",Count:1,Damage:0},
+				sell: {id:"minecraft:spawn_egg",Count:1,Damage:0,tag:{EntityTag:{id:"minecraft:skeleton"}}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buyB: {id:"attaineddrops2:essence",Count:{min:8,max:12}}, buy: {id:"minecraft:skull",Count:1,Damage:2},
+				sell: {id:"minecraft:spawn_egg",Count:1,Damage:0,tag:{EntityTag:{id:"minecraft:zombie"}}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 2,
+				buyB: {id:"attaineddrops2:essence",Count:{min:8,max:12}}, buy: {id:"minecraft:skull",Count:1,Damage:4},
+				sell: {id:"minecraft:spawn_egg",Count:1,Damage:0,tag:{EntityTag:{id:"minecraft:creeper"}}}
+			},
+			
+			{
+				action: "add",
+				CareerLevel: 3,
+				buy: {id:"toughasnails:lifeblood_crystal",Count:1,Damage:0},
+				sell: {id:"minecraft:emerald",Count:{min:9,max:12}}
+			},
+			
+			{
+				action:"add", 
+				buy:{id:"minecraft:emerald",Count:{min:6,max:8}},
+				sell:{id:"corpsecomplex:scroll",Count:1}, 
+				CareerLevel:3
+			},
+			
+			{
+				action:"add", 
+				buy:{id:"minecraft:emerald",Count:{min:2,max:3}},
+				sell:{id:"minecraft:splash_potion",Count:1,tag:[{Potion:"minecraft:harming"},{Potion:"minecraft:long_weakness"}]}, 
+				CareerLevel:3
+			},
+			
+			{
+				action:"add", 
+				buy:{id:"minecraft:emerald",Count:{min:4,max:6}},
+				sell:{id:"minecraft:potion",Count:1,tag:{Potion:"extraalchemy:leech_normal"}}, 
+				CareerLevel:3
+			},
+			
+			{
+				action:"add", 
+				buy:{id:"minecraft:emerald",Count:{min:12,max:16}},
+				sell:{id:"minecraft:potion",Count:1,tag:{Potion:"extraalchemy:cheat_death_normal"}}, 
+				CareerLevel:4
+			},
+			
+			{
+				action:"add", 
+				buyB:{id:"minecraft:emerald",Count:{min:12,max:18}}, buy:{id:"potionfingers:ring",Count:1,Damage:0},
+				sell:{id:"potionfingers:ring",Count:1,Damage:1,tag:{effect:"quark:curse"}}, 
+				CareerLevel:4
+			}
+		
+		]
+	}
+
+}

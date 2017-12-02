@@ -1,0 +1,431 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "CultTreasure",
+  "items": [
+    {
+      "weight": 1.290178656578064,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5889394283294678,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:obsidian",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5889394283294678,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:wool",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:leech_long"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 13,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:infernal_tear",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:destruction_catalyst",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:alkahestry_tome",
+        "damage": 1001,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:infernal_claws",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:twilight_cloak",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:rod_of_lyssa",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:pyromancer_staff",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 49
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 19
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 20
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 7
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 16
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 48
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "quark:enderdragon_scale",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 2,
+      "max": 5,
+      "item": {
+        "id": "quark:soul_powder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:cheat_death_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:leech_long"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:splash_potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:beheading_long"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

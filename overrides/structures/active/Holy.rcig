@@ -1,0 +1,715 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "Holy",
+  "items": [
+    {
+      "weight": 5.2210845947265625,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.3419337272644043,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "minecraft:experience_bottle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.4864864349365234,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20270270109176636,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.8108108043670654,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 35
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.regeneration.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 3
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.power_stare.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.absorbtion.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 17
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 18
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 33
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.9243392944335938,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.resistance.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:regeneration"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.flight.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.saturation.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:swiftness"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.glowing.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extrautils2:xu2.second.chance"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 9,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "roots:totem_fragment",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.luck.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.5121370553970337,
+      "min": 1,
+      "max": 7,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:fruit_juice",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 17
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 18
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mercy_cross",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:angelic_feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 2,
+      "max": 4,
+      "item": {
+        "id": "xreliquary:holy_hand_grenade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "xreliquary:glowing_bread",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

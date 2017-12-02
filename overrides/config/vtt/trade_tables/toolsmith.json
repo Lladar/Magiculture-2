@@ -1,0 +1,40 @@
+{ 
+	Profession: "minecraft:smith", 
+	Career:"tool",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear"},
+			
+			{action:"add", buy:{id:"minecraft:iron_ingot",Count:{min:12,max:15}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:1},
+			{action:"add", buy:{id:"embers:ingot_copper",Count:{min:12,max:15}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:iron_pickaxe",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:iron_shovel",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:iron_axe",Count:1}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:bucket",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"roots:iron_hammer",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"chiselsandbits:chisel_iron",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"embers:ingot_bronze",Count:{min:9,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			{action:"add", buy:{id:"embers:ingot_lead",Count:{min:9,max:12}},sell:{id:"minecraft:emerald",Count:2}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"minecraft:iron_pickaxe",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4}},sell:{id:"minecraft:iron_shovel",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"minecraft:iron_axe",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:potion",Count:1,tag:{Potion:"quark:haste"}}, CareerLevel:3},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:9,max:12}},sell:{id:"minecraft:diamond_pickaxe",Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:7,max:9}},sell:{id:"minecraft:diamond_shovel",Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:9,max:12}},sell:{id:"minecraft:diamond_axe",Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			
+			{
+				action:"add", 
+				buyB:{id:"minecraft:emerald",Count:{min:48,max:56}}, buy:{id:"potionfingers:ring",Count:1,Damage:0},
+				sell:{id:"potionfingers:ring",Count:1,Damage:1,tag:{effect: "minecraft:haste"}}, 
+				CareerLevel:5
+			}
+		]
+	}
+
+}

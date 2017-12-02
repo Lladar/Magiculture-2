@@ -1,0 +1,11 @@
+{
+	profession: {
+		name: "vtt:unholy",
+		texture: "extrautils2:textures/villagers/red_mechanic.png",
+		zombieTexture: "vtt:textures/entity/zombie_villager/zombie_brewer.png"
+	},
+	careers: [
+		"occultist",
+		"necromancer"
+	]
+}

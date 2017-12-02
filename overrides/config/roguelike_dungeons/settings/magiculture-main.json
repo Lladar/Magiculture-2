@@ -1,0 +1,17 @@
+{
+	"name" : "magiculture-main",
+	"inherit" : [
+		"magiculture-loot",
+		"magiculture-spawners"
+	],
+	"criteria" : {
+	},
+	"levels" : {
+		"0" : {
+			"secrets" : [
+				{"type": "SMITH", "num" : 2},
+				{"type": "BEDROOM", "num" : 2}
+			]
+		}	
+	}
+}

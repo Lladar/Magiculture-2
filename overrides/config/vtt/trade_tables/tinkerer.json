@@ -1,0 +1,37 @@
+{ 
+	Profession: "vtt:tinkerer", 
+	Career:"mason",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"minecraft:stonebrick",Count:{min:18,max:24}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:3,Damage:0},sell:{id:"minecraft:brick_block",Count:{min:18,max:24}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:3,Damage:0},sell:{id:"earthworks:block_adobe",Count:{min:18,max:24}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"earthworks:block_cinder",Count:{min:18,max:24}}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"earthworks:block_cordwood",Count:{min:18,max:24}}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},sell:{id:"minecraft:stained_hardened_clay",Count:{min:18,max:24}}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},sell:{id:"quark:hardened_clay_tiles",Count:{min:18,max:24}}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4},Damage:0},sell:{id:"quark:sandy_bricks",Count:{min:18,max:24}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"embers:archaic_bricks",Count:{min:18,max:24}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"embers:ashen_brick",Count:{min:18,max:24}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"embers:block_caminite_brick",Count:{min:18,max:24}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"immersiveengineering:stone_decoration",Damage:5,Count:{min:18,max:24}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"immersivepetroleum:stone_decoration",Count:{min:18,max:24}}, CareerLevel:3},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"minecraft:nether_brick",Count:{min:18,max:24}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"minecraft:red_nether_brick",Count:{min:18,max:24}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:2}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:7},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:3}, CareerLevel:4},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:9,max:12},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:4}, CareerLevel:5},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:9,max:12},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:5}, CareerLevel:5},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:9,max:12},Damage:0},sell:{id:"ceramics:clay_hard",Count:{min:18,max:24},Damage:6}, CareerLevel:5}
+
+		]
+	}
+
+}

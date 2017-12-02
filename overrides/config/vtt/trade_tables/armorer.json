@@ -1,0 +1,40 @@
+{ 
+	Profession: "minecraft:smith", 
+	Career:"armor",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"clear"},
+		
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:chainmail_helmet",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:chainmail_chestplate",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:chainmail_leggings",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"minecraft:chainmail_boots",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:emerald",Count:1},sell:{id:"spartanshields:shield_basic_iron",Count:1}, CareerLevel:1},
+		
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:iron_helmet",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:iron_chestplate",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:iron_leggings",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:2},sell:{id:"minecraft:iron_boots",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:potion",Count:1,tag:{Potion:"quark:resistance"}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:4,max:5}},sell:{id:["minecraft:iron_helmet","minecraft:iron_boots"],Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:6,max:7}},sell:{id:["minecraft:iron_chestplate","minecraft:iron_leggings"],Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:4}},sell:{id:"spartanshields:shield_basic_iron",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:5,max:6}},sell:{id:["minecraft:iron_horse_armor","minecraft:golden_horse_armor"],Count:1}, CareerLevel:3},
+		
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:["minecraft:diamond_helmet","minecraft:diamond_boots"],Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:15,max:17}},sell:{id:["minecraft:diamond_chestplate","minecraft:diamond_leggings"],Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:10,max:12}},sell:{id:"spartanshields:shield_basic_diamond",Count:1,tag:{ench:"random"}}, CareerLevel:4},
+			
+			{
+				action:"add", 
+				buyB:{id:"minecraft:emerald",Count:{min:48,max:56}}, buy:{id:"potionfingers:ring",Count:1,Damage:0},
+				sell:{id:"potionfingers:ring",Count:1,Damage:1,tag:{effect: "minecraft:resistance"}}, 
+				CareerLevel:5
+			}
+			
+		]
+	}
+}

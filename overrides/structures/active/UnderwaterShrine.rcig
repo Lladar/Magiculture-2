@@ -1,0 +1,741 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "UnderwaterShrine",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:fish",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:fish",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:fish",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:fish",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.31,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:book_generation_tag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.17,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.29,
+      "min": 1,
+      "max": 15,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 12,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.29,
+      "min": 1,
+      "max": 15,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 11,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 9,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:rune",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 61
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:ancient_tome",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 62
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toughasnails:lifeblood_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 12,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 16,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 10,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 3,
+      "max": 5,
+      "item": {
+        "id": "xreliquary:glowing_water",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:emperor_chalice",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:kraken_shell",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:ice_magus_rod",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:serpent_staff",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:shears_of_winter",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:tipped_arrow",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:long_slowness"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:water_breathing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:luck"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "minecraft:experience_bottle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "minecraft:prismarine_crystals",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 4,
+      "max": 9,
+      "item": {
+        "id": "minecraft:prismarine_shard",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.763644814491272,
+      "min": 4,
+      "max": 12,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 8,
+      "max": 16,
+      "item": {
+        "id": "minecraft:tipped_arrow",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extrautils2:xu2.relapse"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:mob_ingredient",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 5,
+      "max": 12,
+      "item": {
+        "id": "toughasnails:jelled_slime",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:slime_bucket",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "waystones:warp_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:crabrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:scalloprawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:clamrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:musselrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:snailrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:crayfishrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:octopusrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "harvestcraft:jellyfishrawitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 5
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 6
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 70
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.water_breathing.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "everlastingabilities:ability_totem",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "everlastingabilities:abilityStoreStack": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "name": {
+                      "nbtType": "string",
+                      "nbt": "ability.abilities.everlastingabilities.slowness.name"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

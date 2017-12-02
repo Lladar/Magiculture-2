@@ -1,0 +1,29 @@
+{
+	Profession:"minecraft:farmer",
+	Career:"shepherd",
+
+	Offers:{
+		Recipes:[
+
+			{action:"clear"},
+		
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"minecraft:wool",Count:16,Damage:0}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:wool",Count:{min:16,max:22},Damage:0},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:wool",Count:{min:16,max:22},Damage:12},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:wool",Count:{min:16,max:22},Damage:15},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"minecraft:cooked_mutton",Count:{min:6,max:8}}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:mutton",Count:{min:8,max:12},Damage:0},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"animania:prime_mutton",Count:{min:4,max:5},Damage:0},sell:{id:"minecraft:emerald",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3},Damage:0},sell:{id:"minecraft:shears",Count:1,Damage:0}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"toughasnails:wool_helmet",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"toughasnails:wool_chestplate",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:3,max:5}},sell:{id:"toughasnails:wool_leggings",Count:1,tag:{ench:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"toughasnails:wool_boots",Count:1,tag:{ench:"random"}}, CareerLevel:3}
+		
+			
+		]
+	}
+
+}
